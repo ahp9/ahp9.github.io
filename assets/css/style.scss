@@ -1,4 +1,40 @@
 ---
 ---
 
-@import "../../_sass/main";
+@import "main";
+@import "magazine";
+@import "header";
+@import "article";
+@import 'chart';
+
+:root {
+  --header-color: #222;
+  --text-color: #333;
+  --italic-color: #444;
+  --background-color: #fafafa;
+  --white-color: #fff;
+  --black-color: #000;
+  --blue-color: #0077cc;
+
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --border-radius: 5px;
+
+  --font-main: 'Georgia', serif;
+  --font-size-small: 1.3rem;
+  --font-size-medium: 2.2rem;
+  --font-size-large: 3rem;
+
+  --spacing: 1rem;
+
+  --line-height: 1.6;
+  --small-line-height: 1.3;
+
+
+}
+
+body {
+  font-family: var(--font-main);
+  line-height: var(--line-height);
+  color: var(--text-color);
+  background: var(--background-color);
+}

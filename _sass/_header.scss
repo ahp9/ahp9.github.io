@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  text-align: center;
+  padding: 40px 20px;
+  background: var(--header-color);
+  color: var(--white-color);
+}
+
+.header h2 {
+  font-size: 2.5rem;
+  margin-bottom: calc(var(--spacing)/2);
+  letter-spacing: 1px;
+}
+
+

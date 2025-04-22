@@ -1,18 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="stylesheet" href="/assets/css/style.css">
-</head>
-<body>
-  {% include header.html %}
-  {% include nav.html %}
-  
-  <main>
-    {{ content }}
-  </main>
-  
-  {% include footer.html %}
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+  </head>
+  <body>
+    <div class="page-wrapper">
+      {% include header.html %}
+
+      <main class="mag-main">
+        {{ content }}
+
+        <article class="feature-article">
+          <h2>The Rise of the 15-Minute City</h2>
+          <p>
+            Imagine a city where everything you need—your home, work, school,
+            groceries, parks—is just a short walk or bike ride away. That’s the
+            promise of the 15-minute city, a revolutionary concept in urban
+            planning aimed at decentralizing urban life.
+          </p>
+          <p>
+            By designing neighborhoods to be self-sufficient, this model reduces
+            dependence on cars, cuts carbon emissions, and promotes healthier,
+            more engaged communities. Cities like Paris, Melbourne, and Portland
+            are pioneering this shift.
+          </p>
+          <blockquote>
+            “The 15-minute city empowers people to live locally and reconnect
+            with their communities.” — Carlos Moreno
+          </blockquote>
+          <p>
+            Critics argue that such transformations are idealistic, especially
+            in cities shaped by decades of car-centric infrastructure. Yet,
+            small steps—like local zoning reform, bike lane expansion, and
+            community-led design—are already making a difference.
+          </p>
+
+          <section>
+            <h2>Alcohol consumption</h2>
+            <div class="chart" id="liters_per_inihibitant"></div>
+          </section>
+        </article>
+      </main>
+
+      {% include footer.html %}
+    </div>
+
+    <!---- scripts -->
+    <script src="/assets/js/liters_per_inihibitant.js"></script>
+  </body>
 </html>

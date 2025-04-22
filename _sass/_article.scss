@@ -1,0 +1,56 @@
+/* Enhanced Article Body Styling */
+.feature-article {
+  background: var(--white-color);
+  padding: calc(var(--spacing) * 2);
+  margin: auto;
+  box-shadow: var(--box-shadow);
+}
+
+.feature-article h2 {
+  font-size: var(--font-size-medium);
+  font-weight: bold;
+  color: var(--header-color);
+  margin-bottom: calc(var(--spacing) * 1.5);
+  line-height: var(--small-line-height);
+}
+
+.feature-article p {
+  margin-bottom: calc(var(--spacing) * 1.5);
+  text-align: justify;
+}
+
+/* Drop Cap for First Paragraph */
+.feature-article p:first-of-type::first-letter {
+  float: left;
+  font-size: var(--font-size-large);
+  line-height: 1;
+  padding-right: calc(var(--spacing) / 2);
+  color: var(--blue-color);
+  font-weight: bold;
+}
+
+/* Blockquotes */
+.feature-article blockquote {
+  margin: 2em 0;
+  padding: 1em 1.5em;
+  background: #f7f7f7;
+  border-left: var(--border-radius) solid var(--blue-color);
+  font-style: italic;
+  color: var(--italic-color);
+}
+
+/* Images in Article */
+.feature-article img {
+  width: 100%;
+  height: auto;
+  margin: 20px 0;
+  border-radius: var(--border-radius);
+}
+
+/* Optional: Multi-column layout for large screens */
+@media (min-width: 1000px) {
+  .feature-article p {
+    column-count: 2;
+    column-gap: 40px;
+  }
+}
