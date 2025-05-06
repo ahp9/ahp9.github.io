@@ -1,0 +1,769 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1991,9.131591655209851,11.043827196167177,7.53732481249591
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1990,0.6523865253194786,0.7068545009915693,0.6016005889441404
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1992,4.120630249459212,4.492696215076839,3.7682592593151383
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1990,0.9305108242000636,1.1679209901706702,0.7080015796091991
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1992,0.8933412039486116,1.1160063861507683,0.7175910657682365
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1990,0.643840059267984,0.8225682561506967,0.4979366443243189
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1992,0.7994580449164476,0.8948345434594489,0.7255404259658689
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1990,0.7348043156332967,0.8237560211063779,0.6644667871188805
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1991,5.272343554698585,5.436624826704064,5.113372442405263
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1992,0.820910288073485,1.0910283202389153,0.6738155811857128
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1995,3.26794726589495,4.124814944863324,2.348389873440817
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1995,40.1381406472426,40.592258165886896,39.637121580388964
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1990,2.855285637122891,2.902157422785712,2.8029305649921143
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1990,0.8693464128466344,1.1120261275035341,0.672303794496567
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1990,1.781511568669868,1.9032850454139452,1.6441987097745996
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1990,1.0775476788150409,1.2133027507539569,0.946733367275397
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1990,10.077441449736801,11.754395574601253,8.3715347937756
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1991,5.33357530792934,5.799018908593981,4.909688821892326
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1990,0.8228889933371349,1.0501733753384979,0.6536956080912605
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1994,4.0679937210713,4.401114073406095,3.7342295892759405
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1992,3.728140165220858,4.495357042214865,2.933313723900479
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1992,0.6526714796746222,0.8222655302314257,0.5110174917393948
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1992,0.040445465518389775,0.09280379615101775,0.015320512771013404
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1991,15.417151950170723,15.879997072727292,15.135369379539485
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1991,7.153231903242682,8.279643221161404,5.945671228988296
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1991,7.459500604894865,7.803656823695942,7.084586265566712
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1991,0.7266330893403776,0.8098485580407769,0.6448762178194076
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1990,1.0994145100860657,1.4498899554563283,0.8008313234242147
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1990,13.313812740464005,13.82077264347827,12.735087069731737
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1994,0.6786168215404019,0.850843524908102,0.5514176767934553
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1990,0.040513657394556646,0.09391505237467392,0.014443984523679568
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1990,4.410536713882588,4.8777149785881555,3.986339128011618
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1991,2.701894473057864,3.404987088596025,2.0379201631416946
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1994,0.843351488529508,1.0187802573033415,0.7162954368945659
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1992,1.2346772497600895,1.6053942526863103,0.9214223565139295
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1992,17.440375456970223,18.12598943819922,16.717853110079247
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1995,0.5233027949784768,0.5670478684017808,0.48452271142637604
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1991,0.8807366893871299,1.1167133724290759,0.6743327761964507
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1991,1.1005294809337953,1.2241240050817466,0.9847244374164825
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1991,9.695691610399987,11.2767551189373,8.09373981399124
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1995,21.73940541241743,22.108075302067583,21.390426186606305
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1991,0.756744285683859,0.8476133028997196,0.686420510799586
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1991,2.832127165573068,2.8792612890157168,2.778151646125263
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1991,1.7723956887831132,1.8823103778018886,1.6435070373115994
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1994,1.3230604493011255,1.6900442426932694,1.0019876097725204
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1994,22.932369453311885,23.939107514299227,21.947049457684717
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1990,8.992194448879552,11.023067580570538,7.311065919745052
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1991,0.6160000192913645,0.6629278400288404,0.5669520945130608
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1990,3.3186880624528707,4.045820873504394,2.5941038788381805
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1991,10.264167075259737,10.501512741626755,9.959826165186808
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1994,0.04457745046622618,0.1060114675368648,0.01570480719492866
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1992,9.387165553299143,11.273626464773864,7.758130348806578
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1992,6.042138656068683,6.554686057803826,5.544425449512923
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1991,0.8213480761532922,1.1099833919548425,0.6736753618108134
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1994,10.026040090786859,11.69010850668023,8.534375352390327
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1991,3.602649534846216,4.368317049781746,2.8388069103465154
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1995,0.8480849064283158,1.009465350037947,0.725630172550069
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1992,2.8052252770410537,3.5308086868354347,2.082764113412398
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1992,2.8565319335759547,2.9071755176425884,2.8033609856755746
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1991,1.1795224076592798,1.5401218920857513,0.8662193785418035
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1991,14.705037183922155,15.3264894127391,14.07937299943347
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1992,1.76767173544652,1.8745597843630477,1.6466723253561857
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1991,0.04004127170320189,0.09229136409707839,0.013847661890995467
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1995,1.4217182925688745,1.8166448713132262,1.0780951582156013
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1995,23.933268068979945,25.00447430746457,22.752315422607207
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1995,0.04688442456823568,0.1056258953549508,0.01642073675120715
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1992,0.9290221409539253,1.1790248206791618,0.7151556545848846
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1992,1.1154609167836653,1.2292479382784451,1.0082288275894487
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1990,13.6902791928712,13.92111329811455,13.494760030587216
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1992,0.5876470574599553,0.6342043891262871,0.5415816713564529
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1992,9.333236613453126,10.880573609597047,7.800125781134728
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1994,3.1953268405540336,4.019489209653532,2.320306995995687
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1992,7.426613332890953,8.618618026531674,6.212386556167048
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1992,7.5707879052816285,7.9185401374852145,7.225364714747786
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1997,0.881790906112709,1.089651691997335,0.7277592835654039
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1990,2.5771038887595528,3.234857200955279,1.945504356660341
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1990,5.490773611417543,5.681602855696069,5.318035069672563
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1994,2.9426961947088484,2.9905350328445595,2.878758308623695
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1994,1.7678439576875231,1.8690837433177354,1.6553836759444298
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1998,24.64915715841526,25.378556371055193,24.103931724818235
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1997,0.051362142372052874,0.1228439101375762,0.01717276113519892
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1994,0.5428539160475768,0.5874974028466261,0.502290157701438
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1992,21.85223979235052,22.366285845903715,21.530099255048846
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1990,9.283140051488315,9.472811677435784,9.068372459455134
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1995,10.386668170503947,12.062274095137298,8.790286196299745
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1999,0.9612259204600645,1.1118991207453315,0.8165490433336456
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1998,3.6471609377818237,4.616113178525964,2.7036447996313075
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1991,4.24729543010572,4.656125954845065,3.8648755041113128
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1994,1.3008815029840652,1.6422556564854174,1.0160543364509105
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1994,1.2434901884277456,1.353483370422463,1.1394781601743997
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2000,3.5419230450356385,4.539183286139912,2.642004805247143
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1994,9.216723047719999,10.721759155047227,7.683345381829489
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1992,0.7701695961191397,0.8562389580264933,0.6844307312947072
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1990,7.009299538061046,8.118092640940684,5.826659416849063
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1994,44.63875041068455,45.395969716136726,43.5222310486056
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1997,1.4308162476142086,1.8364589087615641,1.0955495546942438
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1997,24.6552618593776,25.72425540095563,23.611189058623623
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1999,1.3678698874630077,1.7603739493189228,1.0375564980882832
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1999,26.89986686741983,28.085698199811645,25.762350196913136
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1991,0.9122961274282466,1.1563006389595594,0.7109541204098274
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2001,1.3574260211735405,1.739228137680892,1.0325656260165899
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2001,28.18133044584206,29.413867037156116,27.016204025766733
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1995,1.410995078514618,1.7869459749360754,1.0929458454678043
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1995,1.2119710887943282,1.3177743935731712,1.1055833443058047
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1992,5.094086934129096,5.260622456470084,4.937426713475778
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1990,7.458549294328484,7.815384852832759,7.071449972118068
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1995,9.306105876335264,10.808118193902182,7.775510863694147
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1992,12.562409584655175,12.821903991365192,12.269557657661345
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1998,17.92657227502481,18.376572243671703,17.444778213644543
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1994,0.8649483830008711,0.9585581876313918,0.7804517301423216
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2000,0.7800345524292868,0.8406699141239073,0.7142555545028152
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1990,0.7089518391028156,0.792551967867909,0.6268573767791893
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1995,2.9473746894192727,2.995878044787623,2.8850119763341784
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1995,1.7640337870848175,1.8637457739532923,1.657581352955629
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1997,10.355467987841248,11.999284239995276,8.740175379637503
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1998,0.5991002101800336,0.6469840098372303,0.5477062451508996
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1995,4.95354296407035,5.116685933458667,4.784975223803176
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1995,10.878397265408093,11.786002014001362,9.950008227320687
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1999,10.831757826481184,12.766306068181306,9.197593679553124
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1999,0.05627624216742354,0.14010286687881648,0.0183684487761339
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1994,0.8606520216352084,1.050997669894983,0.7048336892687995
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1990,5.162470543020152,5.627844882192881,4.725322237815307
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1994,8.625610949653197,10.016797378922094,7.208913164204819
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2001,11.260891763725317,13.154371097398272,9.638778765551235
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1994,21.562459221621697,22.183566961583384,20.986541534899356
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2000,1.0272139647379794,1.1530369724983653,0.815445911518956
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1994,4.245050885305882,5.081958090224686,3.386191039401026
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1991,0.6462731095450847,0.8122690314490215,0.5016053685927453
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1994,0.9010485221274718,0.9949417077690547,0.8059887723968225
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1994,8.198571763903397,8.524542148769969,7.866657124122915
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1997,2.8252307046345337,2.8701065957914023,2.76411760350765
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1998,0.9195572095975083,1.0761326434159628,0.7778431684605457
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1997,1.7601322208170138,1.8365645254588585,1.6732486769301744
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2000,0.05838402985948328,0.14349167557436543,0.018855353245443286
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1997,1.3388007588684532,1.6842413829713525,1.0338702281735068
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2000,1.3253631015208567,1.7009665330819443,1.0057029029854916
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2000,25.830917893648245,27.01188406082962,24.761645761041418
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1997,1.3226237260587401,1.4320050193515501,1.2142675781048364
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1999,28.01043578748651,28.387661158123862,27.59437603768274
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1997,9.16570465843248,10.676733277531309,7.6500285005679185
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1999,3.6905466962125577,4.686293891381367,2.74378882342545
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2001,3.5377663731488003,4.547890793573796,2.6438883192765807
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1998,0.05394185224224409,0.1296083672216567,0.01743126768440561
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1997,0.8344281353419488,1.0137907063543756,0.6945486553200064
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1999,0.6555025618225154,0.7061894612408668,0.601604056993129
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1998,1.3504136630127166,1.7436239367375477,1.0287898327442182
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1998,26.41825308702257,27.543031006601172,25.26928067506895
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1998,1.3742811646623854,1.7329917576675193,1.064161135898101
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1998,1.455448131508828,1.5563894858550313,1.340620770556299
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1995,9.194571833347176,10.646377518726219,7.673279718602953
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1998,9.06873441169109,10.568813424576112,7.527642056108256
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1997,3.5463830609004776,4.478297295117394,2.6190035130700107
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1994,5.10553271449672,5.276299221597924,4.937709943241989
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1994,10.34282752720836,11.218909126491559,9.423812495919709
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1995,8.280600517892314,8.604932356747694,7.976165108613857
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1997,26.30296174132036,27.001284320829324,25.807977198683208
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1998,10.548896082672263,12.32937023062419,8.896094651818641
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2001,36.21406332952262,36.71728395810544,35.69201166777931
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1999,19.920272967501713,20.2030586850008,19.63965974003956
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2000,10.698358508471433,12.390666881223533,9.00093902662411
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1998,2.8564364077725592,2.9032006154566328,2.7955595130266757
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1997,4.065814947603172,4.391138508700672,3.7292355542234126
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2001,0.8217453195491365,0.8861725412305961,0.7516904292576152
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1998,1.8224902517028634,1.8976653860630006,1.7368757410294027
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1995,0.8787695082311648,0.9699401047625619,0.7869779932688032
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1997,0.5519214739723117,0.6004407160302223,0.5083263738375914
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2003,1.3721729343501312,1.5555074865529577,0.9158778490382292
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1995,0.9025491560123563,0.998160218575523,0.814183043704547
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1997,18.474024648266134,18.88260554660674,18.04125867660484
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1998,9.048911213769866,10.483302035633432,7.552226498733882
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1998,9.772881833809619,10.158643855615653,9.413875580606781
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2003,0.06729672193961558,0.168506170834091,0.020850895385923888
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1998,0.8434212169562344,0.9315310295335353,0.7629318231638849
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1999,1.4382802330348212,1.8264977973802135,1.1096932583388566
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2001,27.82911185053905,28.192862516175587,27.46147088990871
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2003,1.3918753381198172,1.7525470196184159,1.0455942371252165
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2003,29.423110510109968,30.773232014119966,28.13898610970848
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1999,1.5326566090643805,1.641013206406373,1.4098609252189913
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2004,39.63898490750979,40.116943814288106,39.146753576430356
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1999,8.866609190984294,10.334464288979415,7.320954557116908
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1997,0.7207312175094875,0.8838330600369423,0.5786237279534591
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1995,0.8602138423562411,1.0294247979861126,0.7182735077252157
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2001,1.112631415645036,1.2654410426264973,0.8828640108805142
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2005,1.546865556688282,1.748892518181956,0.9124292538072335
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1999,2.9807362858796984,3.0289365683514733,2.9229106988405005
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2003,12.290155803240944,14.601842155879844,10.686097701882497
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1999,2.0500244695085543,2.1292763995801067,1.9597408179098275
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1999,0.7578371498843818,0.933965520370005,0.604104863208918
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2004,47.99630315630158,48.64124237026581,47.33900236311062
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2000,8.784576306551989,10.310970437084965,7.225817136130005
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2006,3.6154078876782716,4.695419160869415,2.6392177717460545
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2004,3.557791469483299,4.494571808060787,2.614704158180421
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2001,0.060174918083599226,0.15364904785158826,0.019566644090127056
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2000,3.085223852126006,3.134904373934817,3.0212610283394965
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2000,32.93886996153523,33.40802702465478,32.48630754997492
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1997,0.9325257434244603,1.02909834697082,0.8472720890366648
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2000,2.0173779861103247,2.097387139788734,1.9271426337725508
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2000,1.4339821218315456,1.8218480635050118,1.1107754331361077
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2000,1.4943461791273909,1.5975012048664803,1.3696824150173532
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2005,1.4100584441198487,1.7770863359641085,1.0667965061694331
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2005,28.480650642129035,29.922135967355697,26.99550855596921
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2007,1.5072098561643468,1.888490753324429,1.153827419954933
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2007,24.36280117801677,25.456454938844725,23.21972523796429
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1995,4.736291574935884,5.732295717268415,3.77610741334501
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2001,1.4901401239357233,1.869896315451074,1.1497005752579146
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2001,1.4925620139731328,1.6004233432435881,1.3636344635648214
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2005,0.0750056318411109,0.1703931284565951,0.024344815689766038
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2004,0.7862829524054161,0.8477071581747689,0.7195777250282371
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2001,8.767217423690624,10.263489999015482,7.253318100969682
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2000,24.8475767434239,25.1835282220427,24.506235243290728
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2006,0.7453579553797637,0.8065618360742781,0.6865264837899167
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1997,5.133708391023856,6.139060949613663,4.106764848279284
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2005,10.723633389625773,12.739785115374703,9.516349358857024
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2004,1.4923428181093659,1.7039832697950716,0.9247344768446317
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2003,3.593104757402798,4.545322909956844,2.664347787500891
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2007,8.782997474857122,9.815741023273215,8.018511470706338
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2003,3.243232392265178,3.2998013586399075,3.1779306361506485
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2004,0.07095183501355608,0.17093002508520444,0.022930349053617693
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2003,1.863189712966389,1.9328765683212321,1.7871345411004549
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1998,8.41124349245174,9.08622883474857,7.708248293559643
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2003,40.48488697465825,40.99172938030309,39.98192325923908
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2006,1.5485858395644034,1.7435879024401553,0.7853379648102303
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2005,3.5923745389858555,4.678484740100294,2.621812323126579
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2001,3.2191932699366985,3.270197256025373,3.1589815971699764
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2001,1.982013642971121,2.063263671600398,1.9009211726393942
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2003,0.8072243477600083,0.8691651921545347,0.7380901315985793
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2004,1.3646978674449497,1.730453442533293,1.0227926659410131
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2004,29.008191117181198,30.340437875532253,27.631963709294656
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1997,9.271112539501898,10.757745493158296,7.747906947771092
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1998,5.217198982108803,5.387682850935512,5.034902881962315
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2003,40.871152894407956,41.39527575436337,40.34520948439553
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2006,0.08161115877789901,0.1802161923296369,0.023153540674642814
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2005,0.7852060540372515,0.8464418278096557,0.7225809354706666
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2005,40.61215139257138,41.24837518943653,39.78638081452417
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1997,8.92260728423953,9.263650354809432,8.603510866711444
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1999,0.8337514348658814,0.9888817621645246,0.6878867272755935
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2003,1.4779307706835665,1.8500484477244654,1.1389661806505973
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2004,12.280239848646668,14.413295522261192,10.798285789940305
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2003,1.2873436168157213,1.380497448247935,1.1867259846511455
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2007,3.588008887590349,4.6392138854339935,2.645963038813127
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1997,0.8400420400248572,0.9242371317540685,0.7592481579272808
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2004,1.485569464176053,1.8583578337066646,1.1484325824148167
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1999,5.93921360088513,7.095084108991468,4.728006654745857
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1995,0.6988766149694384,0.884170868316654,0.5531378231962154
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2003,8.450904165413895,9.839837531374881,6.993664204673438
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2005,66.22554093249745,67.19200568516393,65.11009466792106
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2007,0.7009194202406172,0.7583683760515597,0.6437273449664765
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2004,1.2041022691462864,1.289126912976277,1.1069480266811005
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2006,1.4763272997393553,1.8556540441964648,1.120380091608368
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2006,26.13432895482142,27.525015400559802,24.7244784260175
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2007,28.9157072013731,29.361880822402924,28.571855359787513
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1995,4.085655515113833,4.408137043513759,3.749203164163455
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2006,9.064545187998425,10.554667798724784,8.12526742711301
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2007,60.04810894391704,61.00373461188862,59.0305367688305
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2009,24.532722788688222,24.84081915476838,24.271576707830338
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1998,4.133672002878605,4.469437568900369,3.7848379785140085
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2004,7.893065148006921,9.210079153036267,6.521698150808132
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2007,1.5473286733076337,1.7534451979910262,0.8611781603212862
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2008,1.6444640462718292,2.050939899221516,1.2665507122629043
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2008,20.857483418915262,21.731120948229997,19.870132886091866
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2008,1.5509556002501736,1.7902344338812373,0.82046012671155
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1999,0.8982436589354947,0.9895798054077733,0.8140136725507693
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1997,8.767683334274874,9.470659580620753,7.996168910711128
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1998,0.9521169548979365,1.0486023112803922,0.8670604532752104
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2009,3.6757920480897552,4.734480593748963,2.743822478400711
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2009,55.53544781295185,56.30163251849126,54.72415252425333
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2007,0.08948938510440227,0.17495645314831973,0.023008248596893523
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2004,3.2381762774189746,3.2925312783310083,3.168835883408633
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2004,1.783495180802747,1.8543793252880645,1.7029056548669024
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2011,19.26125936761437,19.517577330698554,19.03907426055692
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2010,1.5013359344588955,1.730845981948834,0.8223384571445468
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2008,10.708685759794369,11.996771021368744,9.881779859103926
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2008,0.09966593692484753,0.1873218231861204,0.023594877180397242
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1998,0.736950139799621,0.9141313170427937,0.5992916658282598
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2006,34.22019648536595,34.62847246183772,33.86671282670552
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2010,1.7987742761780188,2.247895930291058,1.3972104644601608
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2010,32.52351496728666,33.89368930836072,31.24527872351634
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1997,4.89489229611899,5.051085577852901,4.737939408772564
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1999,9.347262401606542,10.115673099126322,8.55002868014681
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2010,0.1157255995662228,0.18681407619013315,0.0243972444957916
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2011,36.401631091051534,37.07707461482462,35.63204810774707
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2009,0.7027840470624367,0.7587457434854211,0.6503381790089807
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2011,3.8298788458157826,4.976826243583277,2.8439055908613198
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2012,1.4404983645755425,1.6867220555756306,0.8479087926351083
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2005,1.4746823247876792,1.8498932559132613,1.1338613050554038
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2005,1.2364426567886024,1.3275211332889485,1.1371005055126457
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2006,64.40858251177872,65.33956674764346,63.55902206910589
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2005,7.751443337481512,9.054910580367997,6.3894230167348525
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2012,0.1241294763429038,0.19334069265976248,0.023627793022518252
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2012,1.6605627252997235,2.091409469108562,1.2998979861955546
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2012,29.72191785955443,31.339677878366167,28.339027816895317
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1999,5.560116935359163,5.742275615132748,5.384151626677958
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2010,11.412958021854255,12.637799828547715,10.604608992107572
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2006,7.591341461814001,8.832173476334589,6.220607253725395
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2011,0.7426830583093812,0.7960568832409034,0.6932227864057502
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2008,3.614945663882257,4.637593584374549,2.6863312720335197
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1999,9.06278407135979,10.50531302860595,7.488075170826793
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2009,1.744085094589426,2.1909566170203796,1.3441584577132735
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2009,22.920508507221005,23.85040605587978,21.960507878539357
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2000,5.947347515696689,6.146126481238868,5.750749861455004
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2009,1.5261271178474378,1.7552096485290238,0.816185186363821
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2013,0.7683742943523875,0.8303970229482652,0.7098061108251075
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2008,27.38393058081173,27.641898461196032,27.119855575411233
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1998,5.377158326563634,6.421653730538452,4.319701929848414
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2008,0.701933869859939,0.7570337473801382,0.6461799101033319
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2012,10.771771163363816,11.557911823802495,10.002685709472328
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2011,1.8700369155908547,2.3454106332683433,1.4485834250408345
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2011,31.623778131660043,33.07761808697442,30.303404889278482
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1999,11.613529704819612,12.082185695716232,11.158187542370314
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2009,0.10839637650381295,0.19240001007505847,0.02327494562852696
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2011,1.4706741169811541,1.7339077123467268,0.8038547674693826
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2006,3.3848167139787027,3.441478592975826,3.30955240820222
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2005,3.316637603733413,3.3724690193752065,3.2485894311093033
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2006,1.7233198233715399,1.7923199814204223,1.6475521000104105
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2005,1.7429822210056016,1.8097239888344576,1.6675416614862466
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2014,1.6912256434759254,2.1318006367995253,1.307335861096164
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2014,31.129229136985156,32.624826270621384,29.718006840768236
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2009,11.099858683610773,12.233464793176303,10.28358263754299
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1998,0.8331164999184285,0.9992413949485033,0.696845429358437
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2011,0.11978449318645892,0.19885005281059176,0.024052315180143502
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2011,12.080650672297653,13.45360707537891,11.192888534801373
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2008,60.255163393099494,61.06419489831301,59.542806169894746
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2012,3.8723143878028443,5.039790099233162,2.863367303263971
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2010,3.799610269951715,4.924647443101521,2.8366146945060606
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2010,23.092739721013164,23.32344765809584,22.80247038605127
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2001,7.487200132312597,8.873837483865795,5.898751571726666
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2014,9.72449216157765,10.44283736460617,9.078813492769768
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2000,0.7906504881977344,0.980288210597248,0.6359066185091057
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2013,1.4128676028540939,1.6703177175071584,0.7544799044524617
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2003,4.738695324241214,5.162562742254848,4.337964038948082
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2007,1.6064270238838618,2.0343399945806535,1.2418105788561766
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2012,0.759896280874893,0.817283439045896,0.7032968039955321
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2010,0.7067769911735513,0.7617855258692638,0.65691334918393
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2007,1.258900054631069,1.3621256386065388,1.1585148297615564
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2013,0.1278774322487622,0.20433417656920752,0.023868236170054766
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2010,51.642554060929264,52.54500797914979,50.76498905670167
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2014,3.8195702184520965,4.904918444537899,2.769454066981831
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2013,1.6675840018883552,2.112867776572059,1.3042954091561316
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2013,31.322883577302868,32.80518609553353,29.826884001340257
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2012,17.798621472060596,18.00353905501075,17.59388578962407
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1999,0.9798572917618678,1.07511763747903,0.8944790021481082
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2000,4.349107314046384,4.727279264431083,3.982179943118441
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2007,7.45146402307993,8.646602662136786,6.138399943452794
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2003,0.7913502143673942,0.963816299381015,0.64604207545499
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2001,0.8572160684902377,0.9408095599880678,0.7804918995668045
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2014,0.7457250404071556,0.8075340588886256,0.6820758820563408
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2014,19.458208057934883,19.66705798473618,19.250049310128933
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2015,1.3725205089982024,1.6648490525461226,0.725137521098053
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2006,1.6106097133848027,2.028917012098619,1.2497896741265793
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2013,10.264104659329163,11.006832074496547,9.572858032292732
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2012,30.162142061939935,30.67832154582248,29.691541589317048
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2006,1.2470689187590145,1.3490725326928876,1.1484761069452638
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2000,0.8402943790771138,1.0301497150484646,0.7049004254399476
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2015,0.13171498186078634,0.20027237432022013,0.023001923337261632
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2014,25.878471329722522,26.53956965188629,25.241822445953904
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2000,1.0263285525771868,1.1263126665907455,0.9383461582462355
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2001,8.581861958879724,10.002751257281773,7.083128540974765
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2015,1.6479871151727943,2.0628084364361405,1.2572549156198407
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2015,30.010419866124156,31.757345552114476,28.465777290113117
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2001,6.09108217955933,6.291912682117669,5.896402288713527
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2001,12.61150205732168,13.063159703044468,12.155381114388067
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2001,12.29455600252809,13.324228473791182,11.284597795553902
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2007,3.3321258509986964,3.3855124098986673,3.2553816199503833
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2007,1.751871627102492,1.8231657640068628,1.6719692934869477
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2003,1.1458778276399273,1.2603909665067228,1.0436437766722257
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2000,6.410507302474711,7.666587552803803,5.053046123097318
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2015,9.383959998404313,10.159125276733176,8.629020299245068
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2016,17.918866314650433,18.10362651850441,17.723696890478784
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2008,3.411989264879494,3.463696346667366,3.3352975376114986
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2013,3.8519618611714326,4.983551901776731,2.813989693247948
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2014,1.3912935561846804,1.654401552887384,0.7583969805421094
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2008,1.7508143156483944,1.8160540858855205,1.6747381824728116
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2015,3.9079001245946694,5.027910926989441,2.805360022175149
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2014,0.13067348158807246,0.1949025715053223,0.023737049915307087
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2016,23.057151812494215,23.490187525608015,22.57364227532183
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2013,17.474497736376367,17.66137569673018,17.290460448547076
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2016,3.893083679728457,5.030799874819808,2.7847285906117545
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2001,4.487943202595165,4.873904293073883,4.110277286789415
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2003,0.8576805516497479,1.0482167546496723,0.712578015182173
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2015,18.7124210146192,18.875950175470834,18.51106836311704
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2003,9.954258129656912,11.848257388393089,7.90273822039259
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2013,27.009774691574478,27.600752616335527,26.530107296686385
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2015,0.7241113499665159,0.7845728041052265,0.6638047669037657
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2000,0.9270126293009863,1.0191957854514382,0.840575161763424
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2016,0.7030487317040357,0.7642875308550231,0.6437256878666181
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2015,24.236124211980712,24.806388320337554,23.690823611625564
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2016,1.358163586085201,1.6703743908819526,0.7472194473938271
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2017,1.3432665360707312,1.6895409891299136,0.7762491874210922
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2008,1.7145179780812057,2.1755503736696635,1.3178906735362448
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2008,1.289667678741574,1.3902826513863162,1.1842557006470227
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2016,0.13190270275056062,0.1942103405346619,0.023281135654666305
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2017,1.6112053352869835,2.024455134409123,1.225109248420635
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2017,28.264532976623297,29.714520702935218,26.854253539334188
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2016,1.633538713338896,2.0560923607511503,1.2610175906797074
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2016,29.752566028401702,31.422050975484776,28.229575857995172
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2009,1.7764208672934316,2.2539764393895405,1.3499853223978706
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2017,0.13143544554432215,0.2006914377156493,0.022176952063465098
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2009,1.2372462709810115,1.3391295476779368,1.1324540278390214
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2016,9.036136894839972,9.840695997086529,8.250898544284345
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2017,8.305336429156073,9.12377838714111,7.525929691512741
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2003,0.9456655043695369,1.0345758904047344,0.8630560920627736
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2017,16.570884392864944,16.822332029349358,16.349780874875282
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2017,3.862493232454583,5.043094612659689,2.757994825183674
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2008,7.377061399561217,8.59413354879854,6.0797368976340165
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2017,20.703540316432726,21.162803114523182,20.28480229590649
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2017,0.7099778318018244,0.7773870652764482,0.6404874624937664
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2000,10.745380254321763,11.642586269881319,9.854479118718812
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2004,8.588586015490796,10.036219367296283,7.07364814012381
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2004,0.9757819809231993,1.069653150255987,0.889978453138597
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2018,1.3310814993955153,1.6628476042190528,0.6468874211133921
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2018,0.13071196966997542,0.19927762802258137,0.0235175038869171
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2001,1.0596911053099904,1.1642986061154244,0.9685576367943138
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2004,14.829280628956882,15.392097938563142,14.251598347879563
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2009,7.2736126825979115,8.518274624022174,5.981329730011662
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2018,16.450994574261355,16.634636270988658,16.25382263970238
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2018,19.87261840892351,20.195322078234717,19.515643520166936
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2018,1.6704143553933635,2.1251448599720746,1.252294599870984
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2018,27.070457061308073,28.55495561538672,25.676951059369916
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2018,3.7852180523043666,5.020633778966938,2.6831560009856736
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2018,0.709906310564962,0.7898183393937931,0.6289065148077021
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2018,8.323184309727635,9.201397264426058,7.543004136955349
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2010,3.572618578459277,3.63021306434406,3.4908148748727066
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2003,8.680527623051315,10.157305494928893,7.177831734968396
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2003,16.127571137982947,17.501296137530332,14.743182900837338
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2004,17.51239750068346,18.986177536703593,16.027654598565622
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2010,1.690152852276756,1.7537164195433579,1.617864769897156
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2003,13.652844939287327,14.185016370860115,13.15048676681938
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2001,0.8428526840570159,1.0191403340231489,0.7128795452776197
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2000,8.71686579061401,10.117008414524658,7.168774534435002
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2000,11.960144565495257,12.402730049569183,11.534647598741035
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2009,3.4664449265400603,3.524368344534609,3.3893163977539884
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2009,1.739304083251028,1.8052363265720544,1.6647168394954266
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2010,1.9282305189128204,2.446026008720789,1.4508151414088037
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2005,0.7781643702915789,0.9552173554188008,0.6387421968073711
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2010,1.1834663482008612,1.2827140645723685,1.0793554937469012
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1999,4.23215308995314,4.594772246102791,3.8811160814618644
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2010,7.140934211949847,8.373642312334203,5.868461593182723
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2019,1.3191507942469645,1.7526011166447075,0.7547274126958899
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2019,0.13038642974913411,0.19847622467438597,0.022915810288702487
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2005,0.8640534108961213,1.0298353516613628,0.7192426179575399
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2004,5.806322532252809,6.00365554673289,5.58828142865194
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2019,15.629695958458171,15.821424907830107,15.435173020203935
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2019,19.602767387576982,19.948161142057415,19.22552448815909
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2019,1.7285961233424,2.2126129634287053,1.2891766993902343
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2019,27.676591507514384,29.198406786719847,26.091762933012294
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2019,8.492862369611254,9.420487005814664,7.63477478760779
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2019,3.760029078488023,4.995015054657395,2.6398278855353343
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2019,0.7103595121232088,0.8036757919555059,0.6204844824334542
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2011,1.1640391188633203,1.2676694614080894,1.0575625155055388
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2001,0.8055935640375854,0.9903689472360384,0.6438507227124038
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2005,12.319895973245002,14.522243620817079,9.905362812198343
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2011,7.035706397373429,8.26609522799531,5.812607275346456
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2003,6.0450278874363885,6.244580872569449,5.817203528894636
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2021,1.3076834845372989,1.7405121224483102,0.6589429894129312
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2021,0.13080061931291212,0.20993424698831667,0.022324246004867286
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2004,1.1643343207604808,1.2787669965823747,1.0584059949127709
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2021,1.813343293341838,2.4204902074268646,1.2617807018945348
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2021,27.717962151743485,33.1120028277578,22.579876181682938
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2021,8.574129080700656,10.662759534828211,6.775408062986187
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2006,5.879062201199737,6.0861144920869465,5.658263297778062
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2004,0.7784241113252592,0.9571103153363409,0.6278940034332773
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2021,15.2622922047618,16.530907522951534,13.873795417492174
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2021,19.706485844353878,21.72726352673475,17.61161777016337
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2004,10.18079339072406,12.112818787490442,8.118480323041558
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2021,3.8090805643627625,5.0780291652258756,2.6721126327312836
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2021,0.6863802840314642,0.796004863263615,0.5859453782819306
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2004,0.8704597617151119,1.033384611803403,0.742358994637864
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2005,19.684799467811175,21.310984364201246,17.913160584141526
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2005,8.567395769733983,10.066763455058844,6.935912473210325
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2005,15.421849650719603,16.049934708824928,14.812199200484974
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2011,3.7073296350644824,3.7652564748893327,3.6260522584526895
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2011,1.6709350314193698,1.730115784354068,1.6004224907856863
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2005,1.0839587004732478,1.1886241923297423,0.9870963704749506
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2005,5.906128913643257,6.118768929054004,5.682442822456145
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1996,0.8652219006480373,1.0416169599952374,0.7345710508614186
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2007,8.61797957592827,10.164194895377532,6.99984232396702
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1996,0.04897263430581631,0.11709198608299648,0.016538277363206493
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2007,17.12223644602294,17.83103542597416,16.46496977928967
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1996,1.4387365888694463,1.8289342895100924,1.0937126587974748
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1996,24.04026402897102,25.08429200334682,22.97486144997665
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1996,10.326788565216633,11.959355392478747,8.718177472206476
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2006,0.8370531972753589,0.9894257122085254,0.7125051646275917
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1996,3.487255023453983,4.398264776721758,2.5326665624649083
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1996,0.5340708021045654,0.5786444501302178,0.4929701992959198
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2004,4.738953576612008,5.151160245995565,4.328620857614339
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1996,32.59835814323979,33.03503809051637,32.185804064784065
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1996,20.408818391192504,20.688655233371243,20.12285784812963
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2006,1.2369140470541067,1.3616348971618168,1.1222906394794858
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2006,0.7894805595894473,0.9623067611548276,0.6467768318829217
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2007,13.649696887801095,16.02198346197914,10.945675619894969
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2012,2.071590878761799,2.6163420858194915,1.5417959823302514
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2012,1.0925892623499347,1.1909455917886496,0.9921883460587786
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2013,3.9914585408253025,4.0594582191613,3.899429395035203
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2007,1.351708958694347,1.486913740169293,1.2324346790512901
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2006,1.14483481331021,1.2568145243868143,1.044085752668586
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2013,1.6887719158525136,1.7458683705310918,1.6111253340906289
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2012,6.933956442480576,8.150828971963584,5.703244734548759
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2006,13.946824188553157,16.38365082967413,11.200325323809514
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2011,2.0335172884814483,2.5654657086592905,1.5243911150865725
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2006,4.921372150045526,5.359065120497967,4.495978700354709
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2005,4.850743638667702,5.277381259690682,4.435415936955323
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2002,1.2370861430575566,1.4072394225155878,0.8606258718977777
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2002,0.06322522107520036,0.15721423337389165,0.020810342617107982
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2007,17.98464235445028,19.543301277398154,16.476961471170185
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2005,1.2052678425696137,1.329019014187219,1.093276362351162
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2002,1.4343801177182587,1.8207689713504582,1.081898488554488
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2002,29.812261550494288,31.19068684817032,28.49356324205661
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2002,12.530366020973455,14.993833452968286,10.767416447250566
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2002,39.087791161887914,39.6049267633304,38.58091044960964
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2002,34.05540200039399,34.4924513025382,33.62256645358781
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2002,3.5593574061766917,4.539401284881744,2.6756717460695505
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2002,0.8091767415582846,0.871685328541715,0.7407965039911931
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2007,0.8323375707093047,1.0252348497344328,0.6850453100154603
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2012,3.8239893526484896,3.8856437519475655,3.736796899978393
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2012,1.6760809471785962,1.733903311999052,1.5979275754705704
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2007,5.041214336075265,5.479397834073027,4.582534916377537
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2008,1.3475934158137526,1.487555678913408,1.2220403748388933
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2007,5.970627182941029,6.194507781569901,5.737636311920377
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2006,18.64201261965377,20.16118141819508,17.110410565562617
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2014,2.1741295785228725,2.768575205282775,1.6086972314590033
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2008,5.161559549851965,5.613516714363341,4.699965391194936
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2014,0.9350094339345132,1.0205315321822874,0.8551276111102917
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2008,0.8152111941044639,0.9686332215185234,0.6792843327659137
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2013,2.150033684809539,2.71714543501568,1.5961460604882738
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2006,8.823730076442944,10.370905487920215,7.1741985451809915
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2013,0.9596133291095881,1.0386354618916398,0.870419777630085
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,1993,0.8297588678523561,1.135250159942718,0.6855239642215382
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,1993,0.041705982470482864,0.09646685658985187,0.015241513505160597
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2006,16.27565193667068,16.914381178531272,15.619838524900436
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2014,6.4465903500145085,7.556103004026589,5.281760518188264
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,1993,1.3028520380200344,1.6622921613616228,0.9744632571565309
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,1993,21.921263987135504,22.82486369564112,20.95576034235958
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,1993,9.906398274342024,11.525629777210343,8.4318509679169
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,1993,35.2382879871588,35.67653269951208,34.760628328608256
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,1993,17.2563137725041,17.589270636133058,16.907099192733423
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,1993,2.9318976507781227,3.6896798472217105,2.180953994169571
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,1993,0.5692184988986485,0.6152858244704531,0.5249760766275193
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2008,0.9062054245324701,1.1029532535236788,0.7356404719329674
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2009,1.4705035139686065,1.620372068099349,1.3377294908506245
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2008,13.852705986324416,16.286056656192336,11.068126985133606
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2015,4.452329858060533,4.527142658181312,4.352540410463263
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2013,6.669843201256666,7.828871583685445,5.449875309164606
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2009,8.575604049270442,10.130474899680259,6.943931464453122
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2015,1.7050700778108303,1.7667436922746615,1.6303541989652486
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2009,15.86736635949419,16.520848532980537,15.198279834734326
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2009,17.94829925410589,19.4689050878186,16.363747892943202
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2010,5.398389997350555,5.892437334645794,4.902021696193861
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2010,0.988291057376637,1.1872447517346143,0.818819261212241
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2009,5.965924403851935,6.188439239640193,5.734207752099066
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2014,4.180698902254355,4.25308827031234,4.0877951976539615
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2007,1.2763748497712326,1.4064813645503904,1.1588508957229353
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2014,1.6905779936699217,1.754265787288703,1.615149551898039
+Deaths,China,Both,All ages,Alcohol use disorders,Rate,2020,1.313640024153455,1.6705531909478517,0.6942593402551743
+Deaths,China,Both,All ages,Alcoholic cardiomyopathy,Rate,2020,0.13051496376568678,0.20093662190727274,0.021968558697834994
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2007,0.8180213123931684,0.9657273347526334,0.6803911686703323
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2015,2.133733114920436,2.71196818860126,1.5689930870612276
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2015,0.9136479443336002,0.9988038175408425,0.831098710443078
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2008,18.580646538229658,20.149194366805705,16.917223378975976
+Deaths,Russian Federation,Both,All ages,Alcohol use disorders,Rate,2020,15.392227201405841,15.936932133712745,14.807694371353405
+Deaths,Belarus,Both,All ages,Liver cancer due to alcohol use,Rate,2020,1.7730876082474853,2.2926786757810627,1.2922596388487786
+Deaths,Belarus,Both,All ages,Alcohol use disorders,Rate,2020,27.779154596949443,31.135315736469035,24.46119659066205
+Deaths,Russian Federation,Both,All ages,Alcoholic cardiomyopathy,Rate,2020,20.029183718149806,21.607571605593595,18.44926134315726
+Deaths,Belarus,Both,All ages,Alcoholic cardiomyopathy,Rate,2020,8.527449782825581,10.047092509283296,7.241271135448144
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2008,1.4680151789349722,1.6149867091121426,1.3420768011528104
+Deaths,France,Both,All ages,Liver cancer due to alcohol use,Rate,2020,3.767207301080573,5.053149502418036,2.6771736218640383
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2016,2.1014630144691973,2.6938179543183183,1.5448695087746207
+Deaths,France,Both,All ages,Alcoholic cardiomyopathy,Rate,2020,0.7024795573900179,0.80975283505178,0.6061411792318799
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2016,0.9014413150116144,0.9860572125884851,0.8207257382980773
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2015,6.51636497815209,7.63453142641729,5.348118447794304
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2008,8.651783912285099,10.232176403602663,6.992696678643739
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2010,1.4831477936787223,1.6497873022800498,1.3388633059398911
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2010,0.7924398509820619,0.9720643041521622,0.652433650976993
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2011,1.493316794301367,1.646411785517235,1.3554377963803477
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2008,16.937814008981626,17.653426823422286,16.244818657141053
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2011,14.395771594565588,14.97454862035571,13.843671590426883
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2016,6.419942864168039,7.508601726956366,5.291380401329347
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2008,6.0169670604584535,6.233144536600845,5.7867733953792335
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2010,15.480222410615358,18.183264072476913,12.369795010917002
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2017,1.6903022043426046,1.7555571583249356,1.6163085048829082
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2009,0.8027508264358507,0.9523643463687146,0.6647481983450019
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2010,1.5291250961431944,1.688093023227823,1.3926575822139593
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2010,8.379232285888325,9.942462986778736,6.747818197612991
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2010,15.043693220320502,15.646694456190826,14.482599426166352
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2011,17.761318506531776,19.317731697151093,16.140976272780197
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2016,4.822073983677971,4.90374621178135,4.7129962378405255
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2016,1.6993239393558504,1.7625444104189552,1.6251448250334881
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2011,6.1651021417292595,6.418187808342736,5.901718715266417
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2009,1.4229789449844406,1.5729367473349338,1.2900935119958832
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2009,14.632877786604524,17.21864052031761,11.669163387389743
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2009,5.287481624004983,5.7569716290217805,4.803823343564015
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2018,6.19811978272501,7.250476896820493,5.124324275076071
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2012,0.845718293054117,1.0347393928247748,0.69544942163745
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2009,0.9554456182984706,1.1525012199662314,0.7807930616694666
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2010,18.584262987640756,20.193971169422632,16.868790950677017
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2011,0.9992393396353315,1.2268787806038786,0.8186187207051935
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2017,2.1380067237087377,2.7488894508199877,1.5682472168118278
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2011,5.584913583359166,6.111182406762812,5.065875419098413
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2011,0.8043580624441458,0.980180889132005,0.6672296811307759
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2017,0.8545311583023846,0.9371428927945532,0.7741882527268493
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2010,6.064313094661328,6.3019196714417784,5.823013797340757
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2012,13.140039386114228,15.55871952129182,10.36347124817176
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2011,16.35644376787788,19.268911752813,13.075773627319904
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2017,6.363450942797274,7.474910015389609,5.255653789820914
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2012,7.096991585147973,8.357946244942116,5.713663910874931
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2012,14.326510172275338,14.935851554958674,13.781063069209083
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2011,1.5561757680132433,1.7296410129146733,1.4014014645425497
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2018,5.1446708572740185,5.24135958777622,5.020130991138651
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2019,0.8044030330037633,0.9010553168766742,0.7218383153837733
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2012,17.387037067923796,18.91131133284158,15.817381078572762
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2012,6.044091949783967,6.27413553183671,5.811969791858545
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2018,1.674930682865543,1.744686373357771,1.593271843407686
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2012,1.4907667365230997,1.6434192402118053,1.3510766671697132
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2017,5.042688629858135,5.129989560286263,4.928546318338811
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2019,6.086989392647663,7.129724439596831,5.022599598186463
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2018,2.263265018575826,2.909539570678624,1.645187024729818
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2018,0.8037951431229463,0.8862959200033895,0.725972453105334
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2013,1.082440616269774,1.3272357047389796,0.8786696446979577
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2014,1.5929613182067957,1.7589881464520103,1.4339810409048708
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2011,7.534426416250446,8.904351682669047,6.082844774093381
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2014,6.642093577631187,7.832809584048243,5.384901794944491
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2013,0.8900326819915669,1.0769777330885537,0.7328583543147543
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2013,5.826043785823339,6.396532657776642,5.259270182286149
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2014,13.477732330699448,13.993617969983893,12.936853468293073
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2013,1.6599931875323168,1.851813432584943,1.4935970798220222
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2012,1.6081155006348153,1.7886366473695383,1.4507558077420193
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2021,2.324407588565102,3.0261342391732944,1.698953809818906
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2019,5.293531735259393,5.401861192073294,5.167399537426579
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2019,1.6583967229683907,1.7352178967081255,1.5683448673500153
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2021,0.8043535902172447,0.9273972480571683,0.6918691992914091
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2013,11.71266310849394,13.877380205166705,9.347002194500394
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2015,6.007090218717986,6.605772165596288,5.425374338092739
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2012,1.0240128683154457,1.2414302801457058,0.8291230722858128
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2015,1.201350735865697,1.479297539651792,0.9272811935846696
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2014,18.524529373206185,20.153904373040856,16.839384257176473
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2021,5.7969593856131105,6.79967781050283,4.817517332090723
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2013,17.272523307137902,18.791425090275617,15.684765353103064
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2013,1.5298504891197726,1.6876627009260667,1.3811785233330975
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2021,5.201044848722193,5.368994330781433,5.044025298014123
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2019,2.2530191203733243,2.8681060735583457,1.633516227667326
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1996,2.8754176363023487,2.923132159497604,2.813809110932454
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1996,1.7485375397141534,1.829699030736763,1.6541785252412582
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2014,5.391675290222192,5.599420109222105,5.153939159093666
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2012,5.724542587821495,6.279490227365925,5.18566129314386
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2021,1.6968055560631685,1.8092040438207602,1.5736631177351341
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2013,5.776701082082828,5.994141154244806,5.534161626149995
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2015,1.7747310540401002,1.981573366928381,1.5916666649968008
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2015,0.9310506508486575,1.1780414751574777,0.7372761095101216
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2014,1.7001063959300664,1.8943437737117599,1.5250920589265766
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2014,0.9179183404905384,1.1507165960830115,0.7363882162121924
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2015,10.103382328952005,11.998699223561667,8.019087952341792
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2016,6.272671996463405,7.390067358799157,5.1398003194766
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2016,12.624517561167321,13.17832126953053,12.045308502537434
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2016,1.6398474081148637,1.8154771106603425,1.4734333765109227
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2013,6.862457447259134,8.06789866760352,5.562081702197544
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2013,14.166560559605902,14.742679110731178,13.603810176445434
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2014,10.729974777636755,12.797191678065497,8.512197289149727
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2002,1.5124084377335607,1.8843551474516202,1.167583175184245
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2016,17.79389978250322,19.350658084267888,16.179957649780402
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2014,1.1612637516651123,1.444470126824615,0.9373054389110463
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2002,1.3707884680052091,1.466265500660101,1.2593731174356635
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2017,6.311258165972424,6.999647603828252,5.684328208233561
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2002,8.66260456066843,10.103583598373707,7.175332278964468
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,1993,2.920705750754359,2.9683450224901935,2.861818334865959
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,1993,1.7755574465656487,1.8852836852147072,1.6589660477691492
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2016,5.176220782584186,5.402834144435975,4.9325420591263445
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2015,18.48082522187399,20.097990704048062,16.800348938851617
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2002,3.3074473330120178,3.3613519116299124,3.2436338200339776
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2015,6.272048124521056,7.410956330536277,5.105758671873811
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2015,13.324769573913896,13.854109128916438,12.744212567405684
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2017,0.9212062923659846,1.1942325060831471,0.7195741621197
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2015,1.648747688359865,1.8227233582264666,1.4829694361787085
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2017,1.2498348497200285,1.6235006150662759,0.9808280572244513
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2002,1.9086901558890588,1.9857890088646997,1.8346279627139372
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2015,5.275302199179827,5.489624569087909,5.040146491132164
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2014,5.928040360456368,6.493012969446759,5.348683289620907
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1996,1.3272338395596561,1.6719948307099441,1.0311806528715388
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1996,1.1958693468191233,1.3025464618977214,1.0926098567288662
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2017,9.018669460507862,10.721403101468365,7.147348880424273
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2016,1.2230042581364344,1.5180436354689202,0.9533922959539406
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2016,1.9043273204338944,2.12732596442485,1.7090784420699894
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,2020,2.287257899662138,2.927409013567321,1.6679097197440522
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,2020,0.8041116940792117,0.9242621877157936,0.7025113433645935
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2016,0.9327614645385081,1.1580334822215745,0.7332155492288738
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1996,9.33847612093567,10.857376351466437,7.8108605764508265
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2017,6.189740150384312,7.283948610588172,5.049129264744511
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2017,11.397023293325367,11.889007679432387,10.816288017706178
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2016,6.120390776027131,6.752327613276633,5.522779262380725
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,2020,5.958977064582327,7.008358138251729,4.922188928456516
+Deaths,Denmark,Both,All ages,Liver cancer due to alcohol use,Rate,1993,1.0183483357009797,1.2937702378436737,0.7908765515679326
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2018,5.003359739122085,5.3539263289091945,4.668803635947428
+Deaths,Denmark,Both,All ages,Alcoholic cardiomyopathy,Rate,1993,1.1490357390185155,1.2605433983710246,1.045411853447335
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2016,9.607705638414858,11.452067085040376,7.62301524821952
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2019,1.5449937404630065,1.7211278806357915,1.3896562927731162
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2019,10.518294798191222,11.103155393847464,9.967365683481935
+Deaths,France,Both,All ages,Cirrhosis due to alcohol,Rate,1993,9.26814139643669,10.766751809919512,7.770362388664427
+Deaths,United States of America,Both,All ages,Alcohol use disorders,Rate,2020,5.231570522683234,5.3562235016768875,5.0898146633742
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2017,1.5015703039664332,1.6665830544987044,1.3488007222753806
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2017,5.134389044862739,5.409359906219995,4.852314060787585
+Deaths,United States of America,Both,All ages,Alcoholic cardiomyopathy,Rate,2020,1.6719376979787384,1.7703131045335516,1.5668381229648856
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2017,16.304994386756952,17.701189634729534,14.918831286864679
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2018,2.0851166766581777,2.3403304953619424,1.8572659552007331
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2018,6.495766367913529,7.239812565152893,5.81104803616837
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2019,16.695912295274617,18.17837965657275,15.216210053847485
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2018,0.9151554928706862,1.1520940049962407,0.680595690043608
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2019,4.908475827696414,5.321658417521064,4.545858286311956
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2018,1.2748032581036484,1.6282632751380373,0.943004888356547
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2021,0.9415226614938742,1.2708453391991192,0.7024112032810245
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2018,9.112390856392969,10.859909524511608,7.224656427815579
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2019,6.643380722798796,7.41991835305998,5.897287322220365
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2021,9.267506117213117,12.092371566762377,6.723551919055699
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2017,1.999525802454942,2.2338481310026714,1.7876131595356668
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2019,0.9175889858017092,1.1985229511725053,0.6778571853589346
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2019,2.154510685934872,2.4182055209890243,1.907137404402794
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2019,1.2853149356790952,1.699419464112142,0.9815693030065218
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2019,9.267203756925536,11.032509718961125,7.367281551834361
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2018,16.485615021934247,17.915155446798547,15.013804312735944
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2018,6.194920458260762,7.298234963070813,5.097798772474415
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2018,10.735424654765099,11.262960894703443,10.177894647989175
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2021,1.618533090876299,1.8502248776964605,1.432197022956628
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2021,16.35856839165503,18.365088880750225,14.46787741646044
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2021,4.594930487856338,5.034390195347055,4.239129911589015
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2018,1.5173212190230412,1.6851800319580341,1.3626789888535973
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2021,5.7675459410460235,6.848534283599265,4.759968707286076
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2021,9.8552271495335,10.489102423757219,9.230823353043496
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1996,0.9214717519986771,1.0179171045328952,0.8341940613975299
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2019,6.087645906862943,7.203610915325928,5.020257828942996
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2002,0.899112477843485,0.9854007204887977,0.8196868024184844
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1996,4.069508484854584,4.394728429410376,3.7260572942184362
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1996,4.890995309795756,5.859001427120214,3.9187209905170404
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1996,0.7128019600074755,0.88246978504246,0.5736044123395057
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1996,0.8467590820625949,1.0175815538743767,0.7054595420441978
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2002,6.114434244891607,6.31328507722544,5.889495075171328
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2002,14.215774671674257,15.408332383816768,13.024852847126416
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2002,8.56176468584673,9.979759187209035,7.055745336466553
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2021,6.570657355257689,7.411414311297563,5.75469261964827
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2002,13.612015437113826,14.086379801312992,13.107489395318387
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2021,2.2263699081643185,2.5308200616698655,1.952982648643076
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2021,1.2874462562838875,1.7045652286882906,0.9596211057130816
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,1993,4.077432862710884,4.432019551019799,3.743610832535619
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,1993,0.8349119606560959,0.9305998987665351,0.7539847543892931
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,1993,0.872858623025344,1.0902318381914249,0.7185073554637971
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1996,9.906060172172047,10.721616785241547,9.079924587108165
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1996,8.857602206418203,10.256316946091438,7.45853736539686
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1996,8.959485276564795,9.289591965960454,8.63787484616999
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,1993,0.6614544893464774,0.8241769463151696,0.5314583812768984
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,2020,1.584423784264109,1.7715487436924677,1.4100024226888577
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1996,0.854560885505175,0.942637706508734,0.7693867425305777
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,2020,5.834064382469062,6.9021598514193885,4.831688202282525
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,1993,4.100511376602212,4.913018538484466,3.2341382771102367
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,2020,10.088650451494217,10.67812587845519,9.512520059317087
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2002,9.56383136529039,11.342607917936071,7.589834378664288
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2002,4.631844811108483,5.039708539626312,4.241943852209472
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1996,4.917923112873146,5.075340099080125,4.762124133736249
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,1993,8.110148606681346,8.797995829382648,7.42713758632626
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2002,1.0992094486715243,1.2057559032925114,1.0032081696517487
+Deaths,Russian Federation,Both,All ages,Cirrhosis due to alcohol,Rate,2020,16.531424881823646,18.1136241449014,14.931084814378428
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2002,0.8479286064526244,1.0273464234539993,0.6995000150662501
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,2020,4.7759607091259015,5.2047277532123655,4.403617553468021
+Deaths,Denmark,Both,All ages,Cirrhosis due to alcohol,Rate,1993,7.800173385722596,9.041950044004524,6.481226773092572
+Deaths,France,Both,All ages,Alcohol use disorders,Rate,1993,5.146093060895078,5.318515271118598,4.9893873338808215
+Deaths,Russian Federation,Both,All ages,Liver cancer due to alcohol use,Rate,1993,0.8587915552116832,0.9526106795589855,0.7655014932980727
+Deaths,Denmark,Both,All ages,Alcohol use disorders,Rate,1993,7.805812666434961,8.142189739721697,7.467039111507808
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2002,0.8045065006817848,0.9915915809246596,0.6458976389529858
+Deaths,China,Both,All ages,Cirrhosis due to alcohol,Rate,2020,0.9289026394056908,1.2306265083761256,0.689989142358956
+Deaths,United States of America,Both,All ages,Liver cancer due to alcohol use,Rate,2020,2.2235436591063444,2.509959498047415,1.9520332508886487
+Deaths,China,Both,All ages,Liver cancer due to alcohol use,Rate,2020,1.2733622931006152,1.6505696877912837,0.9516002264023125
+Deaths,United States of America,Both,All ages,Cirrhosis due to alcohol,Rate,2020,6.5187661889405435,7.351799311620855,5.740554916914104
+Deaths,Belarus,Both,All ages,Cirrhosis due to alcohol,Rate,2020,9.26671624670524,11.339784184243149,7.186165018511199
