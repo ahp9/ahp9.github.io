@@ -1,57 +1,58 @@
 <section>
   <p>
-    The mortality crisis sweeping Russia is most dominant among working age males. TODO: Figure x
-    shows the death rates among working age population and we can observe a large gap between men
-    and women. The mortality peaked in 1994. with around 20 deaths per 1000 population. It only
-    started declining after 2005. Furthermore the high death rates are naturally reflected in the
-    life expectancy. TODO: In figure x we can see the life expectancy of men in Russia is the lowest
-    among the countries selected. Interestingly the life expectancy is also lower than the world
-    average. This is again contrasted by the life expectancy of women which is around 10 years
-    higher, and very close to life expectancies in other developed countries like the US and
-    Denmark. Because of this we will mostly focus on men and the alcohol effects on their mortality.
+    The mortality crisis sweeping Russia displays a striking gender disparity where working age men
+    bear most of the burden, the term "male mortality cirsis" was given to this trend. TODO: Figure
+    X illustrates the dramatic gap between male and female death rates among the working-age
+    population, with male mortality peaking at approximately 20 deaths per 1,000 in the mid-1990s.
+    The mortality started delining after 2005 this could be a possible connection to the regulations
+    introduced in 2006. This gender disparity is further reflected in life expectancy figures. As
+    shown in Figure Y, Russian men's life expectancy fell to a staggering 57.6 years in 1994,
+    placing it below the world average and creating one of the largest gender gaps in life
+    expectancy globally, with Russian women living approximately 10 years longer being comprable to
+    the life of expectancy in developed nations.
   </p>
 
   <div style="display: flex; flex-direction: column; gap: 20px; margin: 2em 0">
-    <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap">
-      <div style="flex: 0 0 45%">
-        <img
-          src="assets/img/mortality/death_rate_working_age.png"
-          alt="Time series death rate plot for working age population"
-          style="width: 100%; height: auto; border: 1px solid #ccc"
-        />
-      </div>
-      <div style="flex: 0 0 45%">
-        <img
-          src="assets/img/mortality/life_expectancy_sex.png"
-          alt="Life expectancy by sex in Russia"
-          style="width: 100%; height: auto; border: 1px solid #ccc"
-        />
-      </div>
+    <div style="display: flex; align-items: center; justify-content: center">
+      <img
+        src="assets/img/mortality/death_rate_working_age.png"
+        alt="Time series death rate plot for working age population"
+        style="width: 80%; height: auto; border: 1px solid #ccc"
+      />
     </div>
     <div style="font-size: 0.9em; color: #555; line-height: 1.5; text-align: center">
       <strong>Figure x:</strong> Average death rates among working age population per 1,000
-      individuals and life expectancy by sex in Russia from 1989 to 2021.
+      individuals in Russia by gender.
+    </div>
+  </div>
+
+  <div style="display: flex; flex-direction: column; gap: 20px; margin: 2em 0">
+    <div style="display: flex; justify-content: center">
+      {% include plots/life_expectancy.html %}
+    </div>
+    <div style="font-size: 0.9em; color: #555; line-height: 1.5; text-align: center">
+      <strong>Figure x:</strong> Life expectancy by gender and difference between life expectancy
+      for women and men in Russia and selected countries. Click on the legend to hide/unhide countries.
     </div>
   </div>
 
   <p>
-    In the beginning, figure 1, we have seen that Russia is the leading country in terms of
-    alcohol-related deaths. Using the offical Russian statistics, we can see that the alcohol
-    related deaths for working age males acounted for around 4-5% of all deaths during the peaks in
-    1990s. Compared to the leading cause of death which is circulatory diseases that was around 23%,
-    this is a significant number. It is also important to note that the alcohol-related deaths are
-    deaths directly caused by alcohol consumption by the ICD-10 classification. This means that
-    there are many more deaths that are indirectly caused by alcohol consumption e.g. traffic
-    accidents which are not included in this number. This means that the actual number of deaths is
-    higher, and a case study in early 2000s estimated that hazaradous drinking in a city contributed
-    to 40% of all deaths (https://pubmed.ncbi.nlm.nih.gov/17574092/).
+    In the introduction (Figure 1), we saw that Russia leads in alcohol-related deaths. According to
+    official Russian statistics, alcohol-related deaths among working-age males accounted for around
+    4-5% of all deaths during the peak in the 1990s. This was approximately five times lower than
+    the leading cause of death—diseases of the circulatory system—which accounted for about 23%.
+    It's important to note that alcohol-related deaths here refer only to those directly attributed
+    to alcohol consumption under the ICD-10 classification. This excludes many indirectly related
+    fatalities, such as traffic accidents. As a result, the actual number is higher; a case study in
+    the early 2000s estimated that hazardous drinking contributed to 40% of all deaths in one
+    Russian city (https://pubmed.ncbi.nlm.nih.gov/17574092/).
   </p>
   <div style="display: flex; flex-direction: column; gap: 20px; margin: 2em 0">
     <div style="display: flex; align-items: center; justify-content: center">
       <img
         src="assets/img/mortality/cause_percentage_of_total.png"
         alt="Percentage of total deaths by cause in Russia"
-        style="width: 60%; height: auto; border: 1px solid #ccc"
+        style="width: 80%; height: auto; border: 1px solid #ccc"
       />
     </div>
     <div style="font-size: 0.9em; color: #555; line-height: 1.5; text-align: center">
@@ -59,14 +60,11 @@
     </div>
   </div>
   <p>
-    The plot illustrates a strong correlation between alcohol consumption and mortality rates among
-    working-age men in Russia. From the early 1990s to the mid-2000s, both alcohol consumption
-    (measured in liters per capita) and mortality rates (per 1,000 population) exhibit a similar
-    trend, with peaks in the mid-1990s and a gradual decline after 2005. This parallel movement
-    suggests that hazardous drinking significantly contributed to the high mortality rates during
-    this period. The decline in both metrics after 2005 aligns with public health interventions and
-    stricter alcohol regulations, highlighting the impact of reducing alcohol consumption on
-    improving mortality outcomes. TODO: rephrase, sources
+    The figure x illustrates the correlation between alcohol consumption and mortality rates among
+    working-age men in Russia from 1990 to 2021. The correlation is particularly evident during
+    three periods: the sharp mortality increase following the Soviet collapse (1991-1994), the
+    temporary improvement during the economic crisis (1998-1999), and the sustained decline after
+    the implementation of alcohol control policies (post-2006).
   </p>
   <div style="display: flex; flex-direction: column; gap: 20px; margin: 2em 0">
     <div style="display: flex; align-items: center; justify-content: center">
