@@ -1,0 +1,257 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1990,158152.65081639113,169737.33185434682,144420.9147373864
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1990,76974.15689730376,86217.3318942519,67593.87786915699
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1990,20679.54937048281,23149.969166774776,18379.605749280476
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1990,8190.809656886214,9507.47141083649,6988.014976896618
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1990,723348.4117346919,739610.3075632094,711662.8884445672
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1990,170319.42389117504,172849.18328306923,167626.28160875564
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1990,348283.88087179733,357220.96092839685,338766.3816009042
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1990,152983.13572814432,156390.23198903163,149120.82497042275
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1991,165307.96442483395,178095.04539358866,151857.8501238543
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1991,80523.0261074236,90212.79274382054,70536.11926099208
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1991,823414.3207154205,855141.01428177,806569.5671753456
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1991,191283.80330688722,194160.65649270604,187981.57542366124
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1991,391553.4938211537,404685.31836472935,376636.5528872678
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1991,165277.97934201988,169383.20410411147,161185.46738998254
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1992,193824.08532935497,208393.75939933423,178606.00855519838
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1992,91108.2301505275,102125.86203670657,79830.30947087613
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1992,1173822.6102528896,1209434.9335760726,1154604.5714595364
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1992,271964.6878647549,275998.50956945034,268055.8439113033
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1992,497446.6505385169,511007.8983116236,483952.71104794217
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1992,199661.55421296495,204216.52783575284,195377.96681946094
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1993,275955.81491345656,296079.02237342397,254470.54992068867
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1993,123486.83439449394,138495.24285515075,108651.31070737296
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1993,1849684.8726266813,1876501.1533448806,1816564.599329533
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1993,463860.07249946013,469690.9007125887,458346.5641243845
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1993,704725.9455619693,724661.7063939286,684508.2451182286
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1993,277713.0979763538,283467.6172569946,271038.32978859707
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1991,21086.518497644945,23643.744608422825,18800.491892385868
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1991,8504.44428926658,9847.255824600743,7287.782780171195
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1994,368531.1891927314,396754.0218964638,338507.54340632795
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1994,156952.10451501937,176480.79740231737,137204.77989047216
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1995,922725.4747284524,944589.7992151001,901019.3438409538
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1995,340820.4417041684,346991.409646742,335013.1779750374
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1994,2303415.4468580205,2351586.7322109276,2227658.1982717956
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1994,604491.7492710067,616065.2151826619,596088.4450360785
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1994,905885.503523684,944414.4902984985,870574.1106907917
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1994,346646.5018448915,355487.61215491313,334814.5913191579
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1995,2061240.4520114753,2088660.5783106019,2028744.8400789765
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1995,535374.657134921,542159.6624683216,528990.415289758
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1996,1670934.420820814,1697045.2293139752,1649750.5297209707
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1996,430115.8242739147,436007.9568808395,424442.4830012559
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1996,862743.5706083158,877464.2057272911,848552.8356079332
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1996,313214.20486712496,318592.59046973765,307922.58567699423
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1992,22582.63203903642,25321.45346355649,20172.75534406004
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1992,8882.697326298583,10256.559254953987,7657.1151274622725
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1995,390456.82784345525,420146.41417161847,359253.16936420614
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1995,163180.32228040494,182858.59816455818,143204.9186651279
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1996,352143.9197815328,379224.939079699,325084.2990920303
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1996,146397.54024709362,163411.62938813813,128524.03166338975
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1997,1339288.3645695434,1384506.2395839086,1310187.8045243036
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1997,348107.87145083747,354584.27956282004,341754.8914709347
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1998,1256953.330282287,1303346.1338521002,1226637.4230992806
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1998,324293.9336883731,330400.0005645335,317000.81030014774
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1997,774082.358775365,798562.293720156,749948.2075878975
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1997,280043.0561388338,286447.01057782874,274317.75588974205
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1998,757303.9843491062,783838.2845609484,730537.9887375119
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1998,269611.73544116784,278371.06870432437,263454.1188237078
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2000,1666189.0728637334,1690064.6870231843,1644532.8954417869
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2000,437385.21585463226,444661.22428583144,430060.19942607067
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2000,1079953.719474452,1096018.2826953637,1064147.0399399186
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2000,370246.2990091623,375766.1038407413,363865.21342752303
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,1999,1419223.184358124,1439115.1689697832,1397813.0728465787
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,1999,375452.74537721573,381924.70725349867,369427.54429936473
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,1999,841214.1822056278,856392.7801248806,827670.0525169384
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,1999,302540.80020252446,307526.7992106391,297391.5422579815
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1993,25487.689146778906,28432.05764821691,22870.69239034706
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1993,9896.464998320756,11403.292960501172,8541.600272746133
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1997,304730.06445507274,327620.0794362701,280682.84538811236
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1997,130773.65350714215,146321.29414052374,114635.2693650843
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2001,1795072.9881198027,1819283.8673462346,1769414.0795386247
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2001,485022.0646204085,493578.5483894368,476967.649347965
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2001,1224584.361335214,1245222.9399521134,1206306.696273826
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2001,420259.8702861293,426582.59829527285,413507.3282412547
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1998,289432.7184027532,311431.88435241894,267283.12240542105
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1998,126619.66917714765,142520.2877601583,110807.86813122357
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1994,26688.12551722912,29620.489539789785,23996.43367077475
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1994,10417.306766481552,11943.62314737039,9020.187515248701
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2003,1979291.711262918,2003971.6543052997,1955593.9015966083
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2003,547886.69982211,556402.9565598121,540106.4871282339
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2003,1774654.7773310996,1801213.2093263546,1748980.074066123
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2003,625045.9443199892,632919.6065134295,616316.1103815202
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2000,385650.8031478719,415480.72772469383,356360.57387100556
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2000,165899.31077415313,185181.38712740928,144771.68596642098
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2005,1989849.7245792083,2027159.6921822224,1937796.6096134891
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2005,537708.365602042,545583.5189216029,529736.719936082
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,1999,329563.5102248508,354417.6847811675,303668.82198399754
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,1999,140531.43192511893,156930.00132312154,123342.40847140815
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2005,2878060.2330786344,2933736.780674565,2817158.779193314
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2005,1003780.3853058629,1017215.346228415,990289.5561757102
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2002,1912155.5739905222,1937037.40787549,1886230.358655509
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2002,530528.307620115,539371.8693861834,522653.1387307195
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2002,1490717.4495623384,1514066.3551623712,1470778.454586085
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2002,517935.0528853475,525159.8656859467,510024.990097218
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2004,1947032.7014184028,1972794.1804534486,1921172.502006893
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2004,529601.9459911047,536985.2130231581,522487.10947981104
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1995,25811.039297683623,28569.226322559643,23217.022671294682
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1995,10127.271021210228,11574.214283554276,8814.171950727794
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2004,2097134.6074760226,2131834.6565600815,2065154.6284879397
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2004,718883.9541729648,730961.8132081194,708562.7104272164
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2007,1400330.7850190657,1426115.2544701456,1381822.0604921828
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2007,376418.71767468966,380974.4699895604,371509.2428275211
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1996,24758.341346422218,27465.05425511458,22345.692055505424
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1996,9800.989421749471,11197.405156198152,8554.745911275928
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2001,441930.9345096223,476732.91889283137,407706.67282345257
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2001,196440.8929640855,219156.34855800046,171945.59531024075
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2006,1672135.032422937,1693799.853391265,1653231.8381889062
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2006,446132.421098152,451402.2201747522,440901.291465306
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2007,2588441.78812551,2638033.93494297,2539533.5046273945
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2007,864622.6307677913,883533.0249811995,849960.7515103578
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2006,2795596.886172714,2840953.6774398093,2752425.393077266
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2006,949597.2463215279,966196.5402212711,935774.0790113932
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2008,1309644.0660562974,1323359.9864737417,1296116.1815863247
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2008,353247.09241099434,357129.04643216013,349276.75560509815
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1997,23907.828594728624,26410.475839193154,21631.773313198948
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1997,9648.465782525438,11010.147126464575,8426.242314868154
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2008,2546419.441350011,2584855.253343463,2512130.7586021544
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2008,871277.6822822978,883571.5369482235,859181.9767904872
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1998,23865.354229054126,26177.25639443843,21640.865392481748
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1998,9571.675990435282,10934.668885161695,8383.535837920417
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2002,511798.2436076528,551809.1578963221,471729.687974657
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2002,233832.80613141536,261551.8894400323,205158.48458841685
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2010,1074020.8883001728,1085320.9718819652,1059388.0131926609
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2010,300868.84590991715,304591.25969901984,297303.56871297065
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2003,584220.4239156003,630362.2960042706,537730.8226377867
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2003,272412.3439305183,304910.097183184,238553.60245486343
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2000,26467.249270285272,28921.40823565446,23998.490840722236
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2000,10033.876055643363,11423.049462278448,8804.169300608803
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2005,724883.3334976586,782084.1022238018,666582.1484085177
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2005,335450.4479237356,377481.3271550005,293032.01823126187
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2010,2131607.1932943743,2176854.2731854175,2086079.90710407
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2010,736120.9914164129,749125.5004607401,720846.2039185711
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2012,837728.7323372357,848931.4257458936,827941.2050923514
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2012,220016.92118209408,222810.9976323858,216567.04986305878
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2004,638950.8050714565,688625.5503663915,588719.9767458868
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2004,299783.5356388101,336286.32454941625,262485.07926993567
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,1999,25646.35338541315,28121.971760189714,23270.520763103068
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,1999,9915.046976279333,11310.780729470334,8689.100429642609
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2012,1230674.038415695,1258651.7132000802,1207106.051006077
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2012,422877.3168151191,431855.48192696215,415837.7896453357
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2009,1154429.965514294,1173158.3648708076,1140300.5413346677
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2009,318207.8883286896,321867.69902356906,314285.505920706
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2009,2318288.0876515955,2362297.5647814027,2274102.317917821
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2009,788676.1458477734,802261.4540439547,774982.5859959135
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2006,685325.9725582838,740752.2714668866,632792.7590731313
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2006,314762.55427269073,354164.0968351065,274582.7512724287
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2001,24142.128062024072,26368.107972737347,21936.67737219806
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2001,9413.15640049853,10684.453224264118,8290.594497027061
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2011,901613.2647842718,914611.6768436359,890758.8532770725
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2011,244314.55178102254,247359.60407213244,240702.8779360915
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2007,657033.045819819,711039.0291320542,605725.507018045
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2007,302933.8213616873,340486.8821201027,264444.3172699469
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2014,917589.4902574465,929750.560949978,905838.1171952755
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2014,231687.21208939946,234876.02157271776,228333.43671654898
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2002,25218.576715408246,27492.032218767665,23021.594880858145
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2002,9783.500853491045,11105.849431332796,8600.544666217833
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2008,679411.500226985,732984.8005067888,623734.9741572555
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2008,307699.1277279904,345248.29951433657,267663.6671824512
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2003,26465.053122152553,28700.052489084872,24160.966841245343
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2003,10272.44580947936,11677.048687370687,9033.869089522257
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2011,1493450.5067453787,1530452.8579840364,1453645.5760720507
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2011,516395.541795286,527007.3870482397,504720.31267379323
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2014,1053841.571739893,1089526.9040283137,1022918.643059087
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2014,360516.1963658352,375090.86477475025,352745.75500932796
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2013,830038.0989455798,840361.2967953684,820466.0643856635
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2013,209263.9810601927,212056.24387204673,205906.75992990297
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2010,678624.3120463388,734870.9632920376,623837.863570622
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2010,298004.57658498833,333619.468179145,258387.1077853799
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2013,1102867.097312854,1135131.2675089568,1079563.4182382638
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2013,372974.1983281787,386716.6800240703,364759.63440686837
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2015,871430.0179320605,879543.115700976,862432.7186414517
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2015,220796.8370969681,223797.91033619083,217614.48395188758
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2015,979633.2021774695,1009920.5717124415,954169.4353410519
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2015,338225.8330754974,349869.37299497804,330969.7030325093
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2004,27168.20939911488,29436.225876470344,24843.76598552695
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2004,10605.179488712374,12122.601599715248,9333.103151175676
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2005,30282.047678613733,32864.24728732215,27596.68416325
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2005,11774.946231772099,13473.231285796819,10323.73726301879
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2012,630095.6481706431,684763.403622941,579683.7092624034
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2012,277300.6364033128,311802.0455509318,240585.04311030995
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2017,757193.4799586226,771541.3739719961,746012.5313322368
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2017,192128.3511477866,195299.55384275338,188822.59302722022
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2017,842692.9664595377,865726.797146379,823479.2870590223
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2017,273582.24216061505,282000.06644729077,266350.54821589467
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2006,31256.08667746627,33897.7039803167,28459.447023557925
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2006,12609.379632212409,14385.898703324721,11117.770669168714
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2016,826769.1694917587,835652.1895407405,817144.318481872
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2016,208795.49057178546,211772.94920130252,205710.3065568984
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2016,936166.8877273056,956633.8904025763,914554.200434259
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2016,312183.4791135193,320506.02053604624,305173.62009936746
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2018,745935.9295180214,755723.783718492,736316.5168488743
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2018,188772.868258824,191651.13361319326,185752.79272463996
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2018,809799.7600945544,822992.6875842018,795655.2820132837
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2018,260087.4388665697,266354.41538803687,254090.53607511419
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2009,651554.5824311913,706312.5398199533,599109.5872529096
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2009,294177.74006741255,331022.37655051437,256267.39323503835
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2019,706208.1507306057,715101.2656402469,697767.7036606878
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2019,177745.35846561822,180555.7046803698,174715.47873720844
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2011,645272.8171039115,698994.8162456171,592352.923149022
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2011,284683.6308241328,320248.371645965,246270.730688618
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2019,800999.1635541931,816640.9900784459,783049.7530951264
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2019,253826.14347542563,259977.217631504,247946.0127328806
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2013,623106.5811572303,676260.0471337215,572928.0446857387
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2013,273323.5204710355,307422.57705941563,236463.25391691359
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2020,690691.5098881504,720517.122740987,660783.1138145392
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2020,174616.74547347415,183379.22963101638,165022.54856613162
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2020,817226.9711900002,878043.355208379,740521.4701734735
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2020,251264.85103457188,290032.02061485103,233628.79923130872
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2007,36928.89766677194,40196.114617927255,33670.003003670405
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2007,15232.013939652805,17390.732935208714,13393.121049250636
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcohol use disorders,Number,2021,678671.2145653594,737229.113599017,610003.2860886652
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcohol use disorders,Number,2021,176410.99890889693,195871.35274626402,156785.0046942102
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Alcoholic cardiomyopathy,Number,2021,794080.8788915799,886816.4838840237,685346.4960419954
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Alcoholic cardiomyopathy,Number,2021,252453.52911903753,293528.4076516562,220266.22331473438
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2008,40380.41766505332,44027.08344484213,36698.47109743997
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2008,16387.601945886043,18709.977006577814,14427.771040798112
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2010,41825.27703400707,45589.138326914115,37890.85713588298
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2010,16746.710085914783,19083.40256325034,14725.08791274596
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2009,40192.04664149557,43785.99923573583,36452.686126202774
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2009,16321.664083583833,18642.213260504417,14307.175364380906
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2011,41062.8040710161,44831.05694443162,37146.70464640127
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2011,15987.105045251765,18252.134216367434,14032.816469966801
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2012,41417.535189052694,45150.98831303206,37500.78168963619
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2012,15578.032575454301,17751.729544689606,13622.943532707552
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2013,42745.375517289925,46747.87956636511,38673.706536216974
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2013,15818.303441252287,18024.040925740464,13761.795479217099
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2014,45009.26308100113,49440.20743015537,40663.96494727075
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2014,16044.016735094407,18324.226899008994,13930.453939812001
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2015,46523.327191616554,51148.23073423923,42055.0466764714
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2015,16294.029819216492,18662.46155052371,14153.72669264484
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2016,46293.32145482759,50957.690435842844,41986.641410568154
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2016,15750.76199283916,18063.833786518113,13627.580386913793
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2017,41836.48893693755,46010.22108891039,37839.01360507855
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2017,13848.131152552585,15951.643940355225,11955.786053747384
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2019,43115.291619202944,47474.87188967382,39073.38041643397
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2019,13423.675782473001,15496.664015269025,11646.95583663686
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2018,42452.3610408465,46675.631600563276,38535.986046136815
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2018,13410.37973060438,15467.226323704364,11592.568133388337
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2020,44193.614262577525,49309.96751315429,39256.70383937796
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2020,13545.478289587762,15691.181045264544,11652.465931773238
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Liver cancer due to alcohol use,Number,2021,44414.32332029255,51110.42869839108,38292.88917506415
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Liver cancer due to alcohol use,Number,2021,14070.46779758126,16576.867643477744,11749.625169337729
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2014,666855.3006954587,722859.9629258389,612641.4335021889
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2014,288854.3621288701,325058.11607081204,250688.75170149992
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2015,658949.7935925737,714471.7535205955,604610.9164156961
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2015,287970.17717978783,322481.38221338834,249234.47884673328
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2016,629420.908499724,681282.8953824735,579218.2951735433
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2016,274612.133185611,308108.1047912317,237428.05038643494
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2017,571756.4117865453,622296.9882119348,526337.4873252728
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2017,250824.4539940262,283262.77751744847,217658.07245105764
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2018,578781.2321062803,628538.7519273665,532590.0122287675
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2018,253802.62273429477,285609.55017183936,219743.6793408681
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2019,586158.0822299786,633104.6176079826,538999.8928903244
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2019,256265.1960940376,288930.6178151142,221307.0054896901
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2020,575998.6404750829,627884.6501719378,525021.2657737499
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2020,254305.8920324022,291581.41221135185,219087.10354144647
+YLLs (Years of Life Lost),Russian Federation,Male,All ages,Cirrhosis due to alcohol,Number,2021,560322.3608347472,628674.1075300924,487755.71421265905
+YLLs (Years of Life Lost),Russian Federation,Female,All ages,Cirrhosis due to alcohol,Number,2021,256063.25214051036,304364.2969879884,209797.35580084618
