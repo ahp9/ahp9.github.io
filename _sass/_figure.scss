@@ -1,0 +1,20 @@
+.figure {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: anchor-center;
+  gap: var(--spacing);
+}
+
+.fiugre_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.figure_text {
+  font-size: 0.9em;
+  font-style: italic;
+  color: grey;
+  display: flex;
+  flex-direction: column;
+}

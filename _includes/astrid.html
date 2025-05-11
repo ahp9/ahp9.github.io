@@ -1,24 +1,115 @@
 <section>
-  <p>Russia has historically ranked among the world's hgiehst alcohol-consuming nations, with per capita intake peaking around 20.4 liters per adult in 2003, contributing to high mortality rates among working-age men.
-    Between 1998 and 2015, a combination of goverment-led interventions and economic events began reshaping national drinking patterns.
-    The most impactful of these were the 2006 Alcohol Market Reforms, the 2010 Anti-Alcohol Campaign, and the 2012 Excise Tax Increases,
-    all aimed at reducing consumption and improving public health.
+  <div class="figure">
+    <div id="alcohol_sales_1998_2015" class="inline-plot"></div>
+    <span class="figure_text">
+      <strong>Figure 3:</strong>
+      Total recorded alcohol sales in Russia by beverage type from 1998 to 2015.
+      The stacked area chart illustrates the volume of vodka, beer, wine,
+      cognac, and champagne sold annually. Key alcohol policy interventions—such
+      as the 2006 regional regulations, the 2010 anti-alcohol campaign, and the
+      2012 excise tax increases—are marked with dashed lines. The figure shows a
+      sustained decline in vodka sales post-2010, alongside a relative
+      stabilization or drop across other categories, reflecting the impact of
+      regulatory and fiscal measures.
+      <em
+        >Source: Federal State Statistics Service (Rosstat); Author’s
+        calculations.</em
+      >
+    </span>
+  </div>
+  <p>
+    While much of Russia’s mortality crisis was driven by excessive
+    drinking—especially among working-age men—government-led interventions
+    starting in the early 2000s began to reshape national drinking patterns.
+    <br /><br />
+    Russia has historically ranked among the world's highest alcohol-consuming
+    nations, with per capita intake peaking around 15 liters per adult in 2007
+    (<a
+      href="https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol?tab=chart&country=~RUS#research-and-writing"
+      >Our World in Data</a
+    >). This extreme level of consumption contributed to elevated mortality
+    rates, particularly among men. Between 1998 and 2015, a combination of
+    public health policies and economic shifts began to reverse these trends.
+    The most impactful efforts included the 2006 Alcohol Market Reforms, the
+    2010 Anti-Alcohol Campaign, and the 2012 Excise Tax Increases—all aimed at
+    reducing consumption and improving population health. <br /><br />
+    In 2006, Russia introduced the Unified State Automated Alcohol Accounting
+    Information System (EGAIS) to combat illegal alcohol production and
+    strengthen state control over alcohol turnover. The system required all
+    producers, wholesalers, and retailers to register alcohol movements in a
+    centralized database, making it possible to track every bottle sold in the
+    country (<a
+      href="https://tadviser.com/index.php/Project:EGAIS_%28Unified_State_Automated_Alcohol_Accounting_Information_System%29"
+      >TAdviser, n.d.</a
+    >). As shown in the <strong>Figure 3</strong>, the 2006 reforms are widely credited with
+    initiating a sustained decline in recorded alcohol sales—particularly in
+    vodka—which marked a turning point in public health outcomes. <br /><br />
+    In 2010, President Dmitry Medvedev called alcoholism a "national disaster"
+    and launched a campaign to halve alcohol consumption within a decade (<a
+      href="https://www.newsweek.com/medvedevs-anti-alcohol-campaign-tries-make-russia-sober-215824"
+      >Medvedev’s Anti-Alcohol Campaign, 2009</a
+    >). Measures included doubling vodka's minimum price, banning overnight
+    alcohol sales (10 p.m. to 10 a.m.), and introducing public education efforts
+    (<a
+      href="https://www.themoscowtimes.com/archive/putin-aims-to-halve-drinking-in-10-years"
+      >von Twickel, 2010</a
+    >,
+    <a href="https://www.theguardian.com/world/2010/aug/18/moscow-ban-vodka"
+      >Parfitt, 2010</a
+    >). While total alcohol sales saw only a mild decline (as shown in the
+    Figrue 3), vodka consumption dropped, and beer consumption slightly
+    increased—indicating a shift toward lower-alcohol beverages. This shift in
+    preferences was further reinforced by later pricing and tax measures.
+    <br /><br />
+    In 2012, Russia sharply increased excise taxes on alcohol—especially
+    vodka—as part of its broader anti-alcohol strategy. Excise rates on spirits
+    more than doubled between 2010 and 2015, making vodka significantly less
+    affordable (<a
+      href="https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Excise+Taxes+and+Price+Regulation+of+Alcoholic+Beverages_Moscow+ATO_Russian+Federation_1-24-2014.pdf"
+      >Putiy & Hansen, 2014</a
+    >). This pricing pressure led to a substantial drop in vodka consumption.
+    Between 2008 and 2015, per capita vodka sales declined by nearly 45%, while
+    total alcohol sales dropped by about 26% (<a
+      href="https://www.arcjournals.org/pdfs/ajad/v4-i2/4.pdf"
+      >Razvodovsky, 2018</a
+    >). <br /><br />
+    As shown in <strong>Figure 4</strong>, vodka prices rose sharply after 2010,
+    outpacing price increases for both domestic and foreign beer. This steep
+    rise corresponds with the excise tax hikes, making strong spirits
+    significantly less accessible. The effect of this policy is further
+    reflected in <strong>Figure 5</strong>, where vodka's share of total alcohol
+    consumption steadily declined, while beer gained ground—highlighting a
+    notable shift toward lower-alcohol beverages. <br /><br />
+    These trends underscore the effectiveness of fiscal policy in changing
+    consumption behavior. The 2012 tax reforms significantly reduced overall
+    alcohol consumption in Russia, especially of vodka, which contains the
+    highest proportion of pure alcohol. While wine and other beverages played a
+    smaller role in this shift, the primary change occurred between spirits and
+    beer.
   </p>
 
-  <div id="alcohol_sales_1998_2015"></div>
-  <div id="vodka_beer_share_plot"></div>
-
-  <section>
-    <h2>Alcohol Sales by Region in Russia</h2>
-    <div id="map" style="width: 1000px; height: 500px"></div>
-    <input
-      type="range"
-      id="yearSlider"
-      min="1998"
-      max="2015"
-      step="1"
-      value="1998"
-    />
-    <label for="yearSlider" id="yearLabel">1998</label>
-  </section>
+  <div class="fiugre_container">
+    <div class="figure">
+      <div id="vodka_beer_price_plot" class="inline-plot"></div>
+      <span class="figure_text">
+        <strong>Figure 4:</strong>
+        Inflation-adjusted average retail prices of vodka, Russian beer, and
+        foreign beer in Russia from 2003 to 2014. Vodka prices surged sharply
+        after 2010, following fiscal and policy interventions aimed at curbing
+        consumption.
+        <em>Source: Rosstat regional pricing dataset.</em>
+      </span>
+    </div>
+    <div class="figure">
+      <div id="vodka_beer_share_plot" class="inline-plot"></div>
+      <span class="figure_text">
+        <strong>Figure 5:</strong>
+        Average vodka and beer consumption shares in Russia from 1998 to 2015.
+        The chart highlights the 2006 regulatory reforms and the 2012 excise tax
+        increase, both of which correlate with significant changes in beverage
+        preferences—vodka share declines while beer rises.
+        <em>Source: Author's calculations using official sales data.</em>
+      </span>
+    </div>
+  </div>
 </section>

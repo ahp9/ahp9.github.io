@@ -1,0 +1,27 @@
+<section>
+  <div id="vodka_beer_share_plot" class="inline-plot"></div>
+  <div id="vodka_beer_price_plot" class="inline-plot"></div>
+
+  <section>
+    <h2>Alcohol Sales by Region in Russia</h2>
+    <div id="map" style="width: 1000px; height: 500px"></div>
+    <input
+      type="range"
+      id="yearSlider"
+      min="1998"
+      max="2015"
+      step="1"
+      value="1998"
+    />
+    <label for="yearSlider" id="yearLabel">1998</label>
+  </section>
+
+  <section>
+    <h2>Vodka Prizes by Region in Russia</h2>
+    <div id="map_vodka_prizes" style="width: 600px; height: 300px"></div>
+    <input type="range" id="yearSlider_prize" min="2004" max="2013" step="1" />
+    <span id="yearLabel_prize">2004</span>
+    <button id="playPauseBtn">Play</button>
+    <div id="map_vodka_prizes"></div>
+  </section>
+</section>
