@@ -1,18 +1,18 @@
+// JavaScript
 document.addEventListener("DOMContentLoaded", function () {
   const slider = document.getElementById("yearSlider");
   const label = document.getElementById("yearLabel");
-  const playButton = document.getElementById("playButton"); 
+  const playButton = document.getElementById("playButton");
 
-  let intervalId = null; 
+  let intervalId = null;
 
   Promise.all([
-    d3.csv("/assets/data/vodka_sold_prize_regions.csv"),
+    d3.csv("/assets/data/alcohol_sales.csv"),
     d3.json("/assets/geodata/russia.geojson"),
   ]).then(([csvData, geoData]) => {
     csvData.forEach((d) => {
       d.year = +d.year;
       d.sellVodka = +d.sellVodka;
-      d.priceVodka = +d.priceVodka;
     });
 
     const regionNames = geoData.features.map((d) => d.properties.name_latin);
@@ -25,11 +25,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const yearData = csvData.filter((d) => d.year === +selectedYear);
       const salesMap = new Map(
-        yearData.map((d) => [d.region.toLowerCase(), d.sellVodka])
+        yearData.map((d) => [d.region_name.toLowerCase(), d.sellVodka])
       );
 
       const salesValues = regionNames.map(
-        (name) => salesMap.get(name.toLowerCase()) ?? null
+        (region_name) => salesMap.get(region_name.toLowerCase()) ?? null
       );
 
       const mapData = [
@@ -89,20 +89,21 @@ document.addEventListener("DOMContentLoaded", function () {
         height: 400,
       };
 
-      Plotly.newPlot("vodka_ratio_plot", mapData, layout, {
+      Plotly.newPlot("vodka_sales_map", mapData, layout, {
         scrollZoom: false,
+        transition: {
+          duration: 500,
+          easing: "cubic-in-out",
+        },
       });
     };
 
     drawMap(+slider.value);
 
-
-    // Slider
     slider.addEventListener("input", () => {
       drawMap(+slider.value);
     });
 
-    // Play button
     playButton.addEventListener("click", () => {
       if (intervalId) {
         clearInterval(intervalId);
@@ -117,7 +118,7 @@ document.addEventListener("DOMContentLoaded", function () {
             slider.value = slider.min;
           }
           drawMap(+slider.value);
-        }, 1000); 
+        }, 2500);
         playButton.textContent = "⏸ Pause";
       }
     });

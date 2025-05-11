@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  d3.csv("/assets/data/regional_price_vodka_beer.csv").then(function (data) {
+  d3.csv("/assets/data/alcohol_prices_regional_data_level.csv").then(function (data) {
     // Parse numbers
     data.forEach((d) => {
       d.year = +d.year;
