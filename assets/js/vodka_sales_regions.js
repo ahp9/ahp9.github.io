@@ -1,62 +1,86 @@
 document.addEventListener("DOMContentLoaded", function () {
   const slider = document.getElementById("yearSlider");
   const label = document.getElementById("yearLabel");
-  const playButton = document.getElementById("playButton"); 
+  const playButton = document.getElementById("playButton");
 
-  let intervalId = null; 
+  let intervalId = null;
 
   Promise.all([
-    d3.csv("/assets/data/vodka_sold_prize_regions.csv"),
+    d3.csv("/assets/data/alcohol_sales.csv"),
     d3.json("/assets/geodata/russia.geojson"),
   ]).then(([csvData, geoData]) => {
     csvData.forEach((d) => {
       d.year = +d.year;
       d.sellVodka = +d.sellVodka;
-      d.priceVodka = +d.priceVodka;
     });
 
     const regionNames = geoData.features.map((d) => d.properties.name_latin);
-    const allSales = csvData.map((d) => d.sellVodka).filter((d) => d != null);
-    const globalMinSales = d3.min(allSales);
-    const globalMaxSales = d3.max(allSales);
+    const allDistricts = [...new Set(csvData.map((d) => d.fedokrug_name))];
+
+    const detailedColorScale = [
+      [0.00, "#fff5f0"],
+      [0.10, "#fee0d2"],
+      [0.20, "#fcbba1"],
+      [0.30, "#fc9272"],
+      [0.40, "#fb6a4a"],
+      [0.50, "#ef3b2c"],
+      [0.60, "#cb181d"],
+      [0.70, "#a50f15"],
+      [0.80, "#82000d"],
+      [0.90, "#4a0009"],
+      [1.00, "#2e0005"]
+    ];
+
+    const districtYearMap = {};
+    csvData.forEach(d => {
+      if (!districtYearMap[d.year]) districtYearMap[d.year] = {};
+      if (!districtYearMap[d.year][d.fedokrug_name]) districtYearMap[d.year][d.fedokrug_name] = [];
+      districtYearMap[d.year][d.fedokrug_name].push(d.sellVodka);
+    });
+
+    const allAvgValues = [];
+    for (const year in districtYearMap) {
+      for (const district in districtYearMap[year]) {
+        const avg = d3.mean(districtYearMap[year][district]);
+        allAvgValues.push(avg);
+      }
+    }
+
+    const globalZMin = d3.min(allAvgValues);
+    const globalZMax = d3.max(allAvgValues);
 
     const drawMap = (selectedYear) => {
       label.textContent = selectedYear;
 
       const yearData = csvData.filter((d) => d.year === +selectedYear);
-      const salesMap = new Map(
-        yearData.map((d) => [d.region.toLowerCase(), d.sellVodka])
-      );
 
-      const salesValues = regionNames.map(
-        (name) => salesMap.get(name.toLowerCase()) ?? null
+      const districtAvgs = {};
+      allDistricts.forEach((district) => {
+        const entries = yearData.filter((d) => d.fedokrug_name === district);
+        districtAvgs[district] = d3.mean(entries, (d) => d.sellVodka);
+      });
+
+      const regionSales = new Map();
+      yearData.forEach((d) => {
+        regionSales.set(d.region_name.toLowerCase(), districtAvgs[d.fedokrug_name]);
+      });
+
+      const values = regionNames.map(
+        (region) => regionSales.get(region.toLowerCase()) ?? null
       );
 
       const mapData = [
         {
           type: "choroplethmapbox",
-          name: "Vodka Sales",
+          name: "Avg Vodka in Federal District",
           geojson: geoData,
           locations: regionNames,
-          z: salesValues,
-          zmin: globalMinSales,
-          zmax: globalMaxSales,
-          colorscale: [
-            [0.0, "#ffffcc"],
-            [0.08, "#ffeda0"],
-            [0.16, "#fed976"],
-            [0.24, "#feb24c"],
-            [0.32, "#fd8d3c"],
-            [0.4, "#fc4e2a"],
-            [0.5, "#e31a1c"],
-            [0.6, "#bd0026"],
-            [0.7, "#800026"],
-            [0.8, "#67001f"],
-            [0.9, "#49001f"],
-            [1.0, "#33001f"],
-          ],
+          z: values,
+          zmin: globalZMin,
+          zmax: globalZMax,
+          colorscale: detailedColorScale,
           colorbar: {
-            title: "Vodka Sold<br>(L/person)",
+            title: "Avg Vodka Sold<br>in Federal District<br>(L/person)",
             x: 1.02,
             y: 0.5,
             len: 0.8,
@@ -74,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         annotations: [
           {
-            text: "Vodka Sales by Region",
+            text: "Average Vodka Sales by Federal District",
             x: 0.5,
             y: 1.08,
             xref: "paper",
@@ -89,20 +113,18 @@ document.addEventListener("DOMContentLoaded", function () {
         height: 400,
       };
 
-      Plotly.newPlot("vodka_ratio_plot", mapData, layout, {
+      Plotly.newPlot("vodka_sales_map", mapData, layout, {
         scrollZoom: false,
+        transition: {
+          duration: 500,
+          easing: "cubic-in-out",
+        },
       });
     };
 
     drawMap(+slider.value);
+    slider.addEventListener("input", () => drawMap(+slider.value));
 
-
-    // Slider
-    slider.addEventListener("input", () => {
-      drawMap(+slider.value);
-    });
-
-    // Play button
     playButton.addEventListener("click", () => {
       if (intervalId) {
         clearInterval(intervalId);
@@ -111,13 +133,9 @@ document.addEventListener("DOMContentLoaded", function () {
       } else {
         intervalId = setInterval(() => {
           let currentYear = +slider.value;
-          if (currentYear < +slider.max) {
-            slider.value = currentYear + 1;
-          } else {
-            slider.value = slider.min;
-          }
+          slider.value = currentYear < +slider.max ? currentYear + 1 : slider.min;
           drawMap(+slider.value);
-        }, 1000); 
+        }, 1500);
         playButton.textContent = "⏸ Pause";
       }
     });
