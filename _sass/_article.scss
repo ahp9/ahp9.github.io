@@ -55,3 +55,33 @@
     column-gap: 40px;
   }
 }
+
+.text-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin-bottom: calc(var(--spacing) * 2);
+}
+
+.text-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.plot-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.column-plot {
+  width: 100%;
+  height: auto;
+  min-height: 300px;
+
+  > .plot-container.plotly {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
