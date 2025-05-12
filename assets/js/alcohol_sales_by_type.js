@@ -23,6 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
       )
       .sort((a, b) => a[0] - b[0]); // sort by year
 
+    console.log(salesByYear);
+
     const years = salesByYear.map((d) => d[0]);
     const vodka = salesByYear.map((d) => d[1].vodka);
     const beer = salesByYear.map((d) => d[1].beer);
