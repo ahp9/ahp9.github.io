@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+explainer_notebook_andrej.ipynb
+explainer_notebook-astrid.ipynb
